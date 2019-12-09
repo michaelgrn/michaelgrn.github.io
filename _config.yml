@@ -1,2 +1,6 @@
 title: PIReT
 name: People and Information Research Team
+
+collections:
+  pubs:
+    output: true
