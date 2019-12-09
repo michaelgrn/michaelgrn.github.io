@@ -1,6 +1,15 @@
 title: PIReT
 name: People and Information Research Team
 
+## Site Structure Configuration
 collections:
   pubs:
     output: true
+
+
+## Theming Configuration
+remote_theme: mmistakes/minimal-mistakes@4.17.2
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-include-cache
