@@ -1,1 +1,6 @@
 name: People and Information Research Team
+remote_theme: mmistakes/minimal-mistakes@4.17.2
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-include-cache
