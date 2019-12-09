@@ -5,6 +5,14 @@ name: People and Information Research Team
 collections:
   pubs:
     output: true
+    permalink: /path/:year/:path
+
+
+defaults:
+  - scope:
+      type: pubs
+    values:
+      layout: single
 
 
 ## Theming Configuration
