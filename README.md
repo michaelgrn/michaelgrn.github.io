@@ -4,6 +4,17 @@ PIReT Web Site.  This is a Jekyll site.
 
 We use the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) Jekyll theme.
 
+## Local Testing
+
+If you want to build and test the web site on your computer, you first need to install `ruby` and `bundler`.
+
+With those installed, run:
+
+    bundle install
+    bundle exec jekyll serve
+
+You can then connect to http://localhost:4000 to browse the site.
+
 ## Adding Publications
 
 To add a publication, add a new Markdown file in the `_pubs` directory.  Do **not** add it to `pubs`; this is for managing output.
