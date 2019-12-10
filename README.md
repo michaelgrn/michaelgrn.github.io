@@ -15,6 +15,13 @@ The markdown file needs a couple of things.  For an example, see `ComplexRec18-l
         title: Paper Title
         date: 2018-08-15
         project: literate
+        type: paper
+
+    If the paper has a DOI or arXiv ID, include that in the header as well, as a `doi` or `arxiv` field.  The `type` should be one of:
+
+    - paper
+    - demo
+    - thesis
 
 -   The first paragraph of the file should be a citation, with two special pieces of formatting:
 

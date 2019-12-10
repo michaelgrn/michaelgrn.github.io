@@ -2,6 +2,7 @@
 title: Retrieving and Recommending for the Classroom
 date: 2018-08-15
 project: literate
+type: paper
 ---
 
 {: .citation}
