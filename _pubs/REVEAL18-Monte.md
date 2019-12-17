@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Mucun Tian and Michael D. Ekstrand. ["Monte Carlo Estimates of Evaluation Metric Error and Bias"](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems at RecSys 2018</cite>.
+Mucun Tian and Michael D. Ekstrand. 2018. ["Monte Carlo Estimates of Evaluation Metric Error and Bias"](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems at RecSys 2018</cite>.
 
 ## Abstract
 
