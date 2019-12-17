@@ -1,5 +1,5 @@
 ---
-title: UBR: A Book Search–Recommender Hybrid
+title: "UBR: A Book Search–Recommender Hybrid"
 date: 2017-05-15
 project: tbd
 type: paper

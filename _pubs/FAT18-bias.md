@@ -1,5 +1,5 @@
 ---
-title: All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness
+title: "All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness"
 date: 2018-01-13
 project: bias
 type: paper

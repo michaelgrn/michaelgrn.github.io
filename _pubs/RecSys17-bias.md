@@ -1,5 +1,5 @@
 ---
-title: The Demographics of Cool: Popularity and Recommender Performance for Different Groups of Users
+title: "The Demographics of Cool: Popularity and Recommender Performance for Different Groups of Users"
 date: 2017-08-22
 project: bias
 type: paper
