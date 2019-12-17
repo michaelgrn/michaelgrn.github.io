@@ -23,10 +23,13 @@ The markdown file needs a couple of things.  For an example, see `ComplexRec18-l
 
 -   The frontmatter should contain the title, publication date, and project, like this:
 
-        title: Paper Title
+        title: "Paper Title"
         date: 2018-08-15
         project: literate
         type: paper
+
+    If the paper title contains a colon (`:`), it **must** be put in quotes.  The quotes
+    are optional in most other cases.
 
     If the paper has a DOI or arXiv ID, include that in the header as well, as a `doi` or `arxiv` field.  The `type` should be one of:
 
