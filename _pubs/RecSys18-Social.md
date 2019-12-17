@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Yiu-Kai Ng and Maria Soledad Pera. 2018. [Recommending Social-Interactive Games for Adults with Autism Spectrum Disorders (ASD)](#). In <cite>Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
+Yiu-Kai Ng and Maria Soledad Pera. 2018. ["Recommending Social-Interactive Games for Adults with Autism Spectrum Disorders (ASD)"](#). In <cite>Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
 
 ## Abstract
 

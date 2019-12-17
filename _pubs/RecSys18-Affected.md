@@ -1,5 +1,5 @@
 ---
-title: Who is Really Affected by Fraudulent Reviews?: An analysis of shilling attacks on recommender systems in real-world scenarios
+title: "Who is Really Affected by Fraudulent Reviews?: An analysis of shilling attacks on recommender systems in real-world scenarios"
 date: 2018-08-06
 project: tbd
 type: paper

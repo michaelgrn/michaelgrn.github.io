@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand. 2017. [Recommending Texts to Children with an Expert in the Loop](#). In <cite>Proceedings of the 1st International Workshop on Children & Recommender Systems (KidRec) at RecSys 2017</cite>.
+Michael D. Ekstrand. 2017. ["Challenges in Evaluating Recommendations for Children"](#). In <cite>Proceedings of the 1st International Workshop on Children & Recommender Systems (KidRec) at RecSys 2017</cite>.
 
 ## Abstract
 

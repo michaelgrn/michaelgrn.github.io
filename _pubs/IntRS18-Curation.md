@@ -1,5 +1,5 @@
 ---
-title: From Recommendation to Curation: When the system becomes your personal docent
+title: "From Recommendation to Curation: When the system becomes your personal docent"
 date: 2018-08-13
 project: tbd
 type: paper

@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Rezvan Joshaghani, Michael D. Ekstrand, Bart Knijnenburg, and Hoda Mehrpouyan. 2018. [Do Different Groups Have Comparable Privacy Tradeoffs](#). In <cite>Proceedings of the Networked Privacy Workshop at CHI 2018</cite>.
+Rezvan Joshaghani, Michael D. Ekstrand, Bart Knijnenburg, and Hoda Mehrpouyan. 2018. ["Do Different Groups Have Comparable Privacy Tradeoffs"](#). In <cite>Proceedings of the Networked Privacy Workshop at CHI 2018</cite>.
 
 ## Abstract
 

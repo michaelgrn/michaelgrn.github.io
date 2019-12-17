@@ -1,5 +1,5 @@
 ---
-title: Recommender Response to Diversity and Popularity Bias in User Profiles
+title: "Recommender Response to Diversity and Popularity Bias in User Profiles"
 date: 2017-05-15
 project: bias
 type: paper

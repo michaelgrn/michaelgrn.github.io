@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand. 2018. [The LKPY Package for Recommender Systems Experiments](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems at RecSys 2018</cite>.
+Michael D. Ekstrand. 2018. ["The LKPY Package for Recommender Systems Experiments"](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems at RecSys 2018</cite>.
 
 ## Abstract
 
