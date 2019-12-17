@@ -1,6 +1,6 @@
 ---
 title: The LKPY Package for Recommender Systems Experiments
-date: 2018-10-07
+date: 2018-08-13
 project: lenskit
 type: paper
 ---
