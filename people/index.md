@@ -8,6 +8,6 @@
 
 
 <figure>
-  <img src="../images/faculty_pic.jpg" alt="my alt text" style = "width:300px; height:200px"/>
+  <img src="../images/faculty_pic.jpg" alt="my alt text" style = "width:300px; height:200px; display:block; margin:0 auto"/>
   <figcaption><a href = "https://md.ekstrandom.net/">Michael Ekstrand</a> and  <a href ="https://solepera.github.io/"> Sole Pera</a></figcaption>
 </figure>
