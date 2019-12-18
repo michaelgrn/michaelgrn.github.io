@@ -1,4 +1,4 @@
-<h1 class="entry-title">People</h1>
+<h1 class="entry-title" style="margin-left:25px">People</h1>
 
 
 <div>  
@@ -7,7 +7,7 @@
 </p></div>
 
 
-<h2 id="faculty">Faculty</h2>
+<h2 id="faculty" style="margin-left:25px">Faculty</h2>
 
 
 
@@ -22,7 +22,7 @@
 </div>
 
 
-<h2 id="students">Current Students</h2>
+<h2 id="students" style="margin-left:25px">Current Students</h2>
 <div style="clear: both; margin-left:25px; margin-right:25px">
 Adam Keener is a MS student working with Dr. Ekstrand on applying Bayesian 
 analysis to recommender systems. In his spare time, Adam spends time with 
@@ -156,7 +156,7 @@ his wife and two children, and enjoys reading sci-fi and fantasy novels.
 
 
 <div style="clear:both; margin-left:25px; margin-right:25px">
-<h2>Alumni</h2>
+<h2 style="margin-left:25px">Alumni</h2>
 <ul>
 <li><span>Ion Madrazo Azpiazu (Ph.D 2019)</span></li>
 <li><span>Mucun Tian (MS 2019)</span></li>
