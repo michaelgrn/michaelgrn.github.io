@@ -3,7 +3,13 @@
 ---
 
 @charset "utf-8";
-@import "minimal-mistakes/variables";
+
+// from original theme
+$gray: #7a8288;
+$dark-gray: mix(#000, $gray, 40%);
+$darker-gray: mix(#000, $gray, 60%);
+$light-gray: mix(#fff, $gray, 50%);
+$lighter-gray: mix(#fff, $gray, 90%);
 
 // BEGIN css variable customization
 $sans-serif: Lato, sans-serif;
@@ -12,6 +18,7 @@ $caption-font-family: $sans-serif;
 $intro-transition: none;
 
 $muted-text-color: $dark-gray;
+$info-color: #148fb4;
 
 // BEGIN Standard imports
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
