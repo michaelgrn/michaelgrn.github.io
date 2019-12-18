@@ -29,5 +29,6 @@ by [Sole Pera and Michael Ekstrand](http://coen.boisestate.edu/piret/people/#fac
 
 
 
-![image-title-here](images/piret_group_pic.jpg ){:class="img-responsive" width="150px"}
+![image-title-here](images/piret_group_pic.jpg ){:class="img-responsive" display = "block" margin-left= "auto"
+margin-right="auto" width="50%"}
 
