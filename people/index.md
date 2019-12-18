@@ -7,7 +7,7 @@
 
 
 
-<figure>
-  <img src="../images/faculty_pic.jpg" alt="my alt text" style = "width:300px; height:200px; display:block; margin:0 auto"/>
-  <figcaption><a href = "https://md.ekstrandom.net/">Michael Ekstrand</a> and  <a href ="https://solepera.github.io/"> Sole Pera</a></figcaption>
-</figure>
+
+| ![space-1.jpg](../images/faculty_pic.jpg ){:class="img-responsive" display="block" width="300px" height="200px" margin="0 auto"} | 
+|:--:| 
+| [Michael Ekstrand](https://md.ekstrandom.net/)  and  [Sole Pera](https://solepera.github.io/) |
