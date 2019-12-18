@@ -8,6 +8,5 @@
 
 
 
-| ![space-1.jpg](../images/faculty_pic.jpg ){:class="img-responsive" display="block" width="300px" height="200px" margin="0 auto"} | 
-|:--:| 
+| ![space-1.jpg](../images/faculty_pic.jpg ){ width="800" height="600" style="display: block; margin: 0 auto" }
 | [Michael Ekstrand](https://md.ekstrandom.net/)  and  [Sole Pera](https://solepera.github.io/) |
