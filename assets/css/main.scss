@@ -6,12 +6,16 @@
 
 // BEGIN css variable customization
 $sans-serif: Lato;
+$caption-font-family: $sans-serif;
+
+$intro-transition: none;
 
 // BEGIN Standard imports
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 /// BEGIN local customizations here
+@import "students";
 
 .citation {
     padding-left: 1em;
