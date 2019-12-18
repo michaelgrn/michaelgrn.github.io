@@ -7,7 +7,7 @@ logo: /images/piret-hires.png
 collections:
   pubs:
     output: true
-    permalink: /path/:year/:path
+    permalink: /pubs/:year/:path
     sort_by:  date
 
 
