@@ -42,3 +42,10 @@ The markdown file needs a couple of things.  For an example, see `ComplexRec18-l
     - The *paper title* should be a link to the location `#`, e.g. `[My Paper Title](#)`.
     - The first line of the paragraph needs to be the text `{: .citation}` to mark it as a citation paragraph.
       This is a Kramdown [inline block attribute list](https://kramdown.gettalong.org/syntax.html#block-ials).
+
+-   The *Links and Resources* section should include links to:
+
+    - The offical paper page (e.g. its page in the ACM Digital Library)
+    - Paper PDF if available via public link
+    - Conference or proceedings
+    - Anything else useful (e.g. the project, code to reproduce, etc.)
