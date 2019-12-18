@@ -23,9 +23,11 @@
 
 
 ## Current Students
+<div style="clear: both; margin-left:25px; margin-right:25px">
 Adam Keener is a MS student working with Dr. Ekstrand on applying Bayesian 
 analysis to recommender systems. In his spare time, Adam spends time with 
 his wife and two children, and enjoys reading sci-fi and fantasy novels.
+<div>
 <br>
 <hr>
 <br>
