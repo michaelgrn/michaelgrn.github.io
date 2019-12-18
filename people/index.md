@@ -85,5 +85,57 @@ his wife and two children, and enjoys reading sci-fi and fantasy novels.
 <div style="float: right;padding-left: 1ex"><img src="../images/Ion_pic.jpg" alt="Ion Madrazo Azpiazu"></div>
 <p>I am <a href="https://ionmadrazo.github.io/" class="external"><strong>Ion Madrazo Azpiazu</strong></a>, a PhD candidate at Boise State University, USA, mentored by Dr. Maria Soledad Pera. My research area includes Natural Language Processing, Information Retrieval, and Machine Learning, with an emphasis on multi- and cross-lingual scenarios. I completed my Bachelor’s degree in Computer Science, as well as my Master’s degree in Intelligent Systems and Computation at the University of the Basque Country, where I actively collaborated with IXA NLP research group. I have also collaborated with Zalando Research and I am currently an active member of People and Information Research Team (PIReT).</p>
 </div>
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<div style="float: left;padding-right: 1ex"><img src="../images/MichaelG_pic.jpg" alt="Michael Green"></div>
+<p><strong>Michael Green</strong> is a Second year Masters candidate in the Computer Science Department at Boise State. He received his Bachelors in English with a focus in Literature with a minor in Visual Art from Boise State University in 2008. He currently works as a Research Assistant with Dr. Sole Pera on subjects such as user type identification as well as evaluating Search Engine effectiveness in the classroom environment. He is also working on his 5th semester as a TA and Tutor for the Computer Science Department.
+</p>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<div style="float: right;padding-left: 1ex"><img src="../images/Ngozi_pic.jpg" alt="Ion Madrazo Azpiazu" alt="Ngozi Ihemelandu"></div>
+<p><strong>Ngozi Ihemelandu</strong> is a second year PhD student in Computing with an emphasis in Data science at Boise State University. She received her Master’s in Software Engineering from Texas State University, San Marcos and she is currently working with Dr Michael Ekstrand on Recommender Systems.</p>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<div style="float: left;padding-right: 1ex"><img src="../images/Oghenemaro_pic.jpg" alt="Oghenemaro Anuyah" ></div>
+<p><strong>Oghenemaro Anuyah</strong> is a second year PhD student in Computer Science at Boise State. She completed her Bachelor’s in Computer Science in Nigeria and her MS in Computer Science here at Boise State, in 2018. She currently works as a Research Assistant with Dr. Sole Pera. Her research involves developing an internet search user interface tailored to the skills and needs of children ranging from 6-11 years old.  She has been actively involved with the People and Information Research Team (PIReT) from Spring 2017. Further information about her can be <a href="http://maroanuyah.github.io" class="external">found on her website</a>.</p>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<div style="float: right;padding-left: 1ex"><img src="../images/Sandra_pic.jpg" alt="Oghenemaro Anuyah" ></div>
+<p><strong>Sandra Ambriz</strong> is a senior in the Computer Science program at Boise State. She currently works as an undergraduate research assistant with Dr. Michael Ekstrand. Currently, her research focuses on recommender system stability. In her free time, she enjoys going running, painting, and spending time with her dogs.
+</p>
+</div>
+
+
+
+
 
 
