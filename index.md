@@ -9,7 +9,7 @@ excerpt:
 ---
 
 
-The People and Information Research Team studies information retrieval, 
+The People and Information Research Team (PIReT, pronounced "pirate") studies information retrieval, 
 recommender systems, and other intelligent information systems. We are 
 particularly interested in building compelling new applications focused on 
 the needs of their users; understanding the ways in which these systems, 
@@ -20,14 +20,11 @@ reproducible research on recommender systems.
 PIReT is a part of the [Department of Computer Science](https://coen.boisestate.edu/cs/) 
 in the [College of Engineering](https://coen.boisestate.edu/) at 
 [Boise State University](https://www.boisestate.edu/) and is led 
-by [Sole Pera and Michael Ekstrand](http://piret.info/people/#faculty).
+by [Sole Pera and Michael Ekstrand](/people/#faculty).
 
 -   [Follow the PIReT Ship on Twitter](https://twitter.com/intent/follow?screen_name=PIReTship).
 -   [Read about our current projects](http://piret.info/projects/)
 
-
-
-<div>  
-<p align="center">
-  <img width="600px" src="images/piret_group_pic.jpg ">
-</p></div>
+<figure class="text-center half">
+  <img src="images/piret_group_pic.jpg" alt="PIReT Group Photo">
+</figure>
