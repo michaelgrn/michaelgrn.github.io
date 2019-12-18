@@ -8,7 +8,6 @@ excerpt:
     Information retrieval, recommender systems, and human-computer interaction at Boise State University.
 ---
 
-# People and Information Research Team
 
 The People and Information Research Team studies information retrieval, 
 recommender systems, and other intelligent information systems. We are 
