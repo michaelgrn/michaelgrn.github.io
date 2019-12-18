@@ -15,6 +15,18 @@ With those installed, run:
 
 You can then connect to http://localhost:4000 to browse the site.
 
+## Accessibility Notes
+
+**Our web page must be accessible**, by Idaho state law and Boise State University policy.
+
+The [WebAIM Accessibility Evaluation Tool](https://wave.webaim.org/) is useful for checking accessibility.
+
+Some points to help:
+
+- Use semantic markup.  Using Markdown instead of custom HTML whenever possible helps a lot with this.
+- All images must have ALT text.  If an image is purely decorative, give it empty alt text to signal that
+  it is deliberately a decorative image.
+
 ## Adding Publications
 
 To add a publication, add a new Markdown file in the `_pubs` directory.  Do **not** add it to `pubs`; this is for managing output.

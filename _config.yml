@@ -12,6 +12,8 @@ collections:
 
 
 defaults:
+  - values:
+      layout: single
   - scope:
       type: pubs
     values:
