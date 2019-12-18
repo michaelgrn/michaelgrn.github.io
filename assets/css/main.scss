@@ -3,12 +3,15 @@
 ---
 
 @charset "utf-8";
+@import "minimal-mistakes/variables";
 
 // BEGIN css variable customization
 $sans-serif: Lato;
 $caption-font-family: $sans-serif;
 
 $intro-transition: none;
+
+$muted-text-color: $dark-gray;
 
 // BEGIN Standard imports
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
