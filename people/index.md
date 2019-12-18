@@ -49,7 +49,7 @@ his wife and two children, and enjoys reading sci-fi and fantasy novels.
 </div>
 
 <div style="clear: both">
-<div style="float: left;padding-right: 1ex"><img class="aligncenter size-medium wp-image-144" src="../images/Devan_pic.jpg" alt="Devan Karsann" style = "height:175px; width:80px"></div>
+<div style="float: left;padding-right: 1ex"><img class="aligncenter size-medium wp-image-144" src="../images/Devan_pic.png" alt="Devan Karsann" style = "height:175px; width:80px"></div>
 <p>My name is <strong>Devan Karsann</strong> and I’m a first year master’s student in Computer Science. Dr. Sole Pera is my advisor and next semester I’m looking forward to starting my graduate project. I have a data set available to use and soon it will soon be time to defend the project proposal! During the school year I work 30 hours a week at AppDetex, a software startup in downtown Boise. This gives me to take 6 credits a semester and I’m happy about the balance. Right now I’m taking Introduction to Information Retrieval and Large-Scale Data Analysis and they’re both cool classes. My personal website can be found at <a href="http://www.devankarsann.com" class="external">http://www.devankarsann.com</a>.</p>
 </div>
 
