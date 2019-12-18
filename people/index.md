@@ -1,4 +1,4 @@
-# People
+<h1 class="entry-title">People</h1>
 
 
 <div>  
@@ -7,7 +7,7 @@
 </p></div>
 
 
-## Faculty
+<h2 id="faculty">Faculty</h2>
 
 
 
