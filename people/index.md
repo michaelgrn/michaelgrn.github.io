@@ -134,6 +134,37 @@ his wife and two children, and enjoys reading sci-fi and fantasy novels.
 </p>
 </div>
 
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<p style="clear:both">Additional Students:</p>
+<ul>
+<li><span>Jason Hall (MS)</span></li>
+</ul>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
+
+<div style="clear:both; margin-left:25px; margin-right:25px">
+<h2>Alumni</h2>
+<ul>
+<li><span>Ion Madrazo Azpiazu (Ph.D 2019)</span></li>
+<li><span>Mucun Tian (MS 2019)</span></li>
+<li><span>Oghenemaro Anuyah (MS 2018)</span></li>
+<li><span>David McNeill (BS 2016)</span></li>
+<li><span>Nevena Dragovic (MS 2016)</span></li>
+</ul>
+</div>
 
 
 
