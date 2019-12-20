@@ -4,7 +4,7 @@ layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/IR.jpg
-    caption: "Photo by [stem.T4L](https://unsplash.com/@stem_t4l?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+    caption: "Photo by [Michał Parzuchowski](https://unsplash.com/@mparzuchowski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt:
     Information Retrieval, children, search engine
 ---
@@ -14,5 +14,3 @@ Right now, popular search engines work best for a general audience who is alread
 
 
 ## Publications
-
-{% include project-pubs.md project="bias" %}
