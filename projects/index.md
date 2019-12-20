@@ -21,7 +21,3 @@ In this project, we are investigating several questions of fairness and bias in 
 -How do these biases change over time through the recommender-user feedback loop?
 
 This is a part of our overall, ongoing goal to help make recommenders (and other AI systems) better for the people they affect.
-
-## Publications
-
-{% include project-pubs.md project="bias" %}
