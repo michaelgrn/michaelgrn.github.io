@@ -6,7 +6,7 @@ header:
     overlay_image: /images/bias.jpg
     caption: "Photo by [Nathan Dumlao](https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt:
-    recommender systems, fairness, bias, and human-computer interaction at Boise State University.
+    recommender systems, fairness, bias
 ---
 
 

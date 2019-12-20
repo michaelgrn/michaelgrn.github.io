@@ -1,20 +1,18 @@
 ---
-title: LITERATE
+title: IR for CHILDREN
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/literate-picture.jpg
-    caption: "Photo by [Ryan Wallace](https://unsplash.com/photos/azA1hLbjBBo)"
+    overlay_image: /images/IR.jpg
+    caption: "Photo by [stem.T4L](https://unsplash.com/@stem_t4l?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt:
-    Information retrieval and human-computer interaction at Boise State University.
+    Information Retrieval, children, search engine
 ---
 
 
-Teacher in a classroom with students reading about science
-LITERATE (Locating Informational Texts for Engaging Readers And Teaching Equitably) is an interdisciplinary collaboration to meet teachers’ information needs in classrooms, with an emphasis on texts about current events. Our lab is using methods from information retrieval and human computer interaction to contribute to student engagement and access by developing and evaluating tools to assist teachers in finding sets of texts personalized for their classrooms. We’re working with the education department to get into classrooms and make a real world impact by empowering teachers.
+Right now, popular search engines work best for a general audience who is already good at using them. However, anyone who isn’t familiar or comfortable in a search environment — like children — can be excluded. Learning to navigate the internet using a search engine is a critical skill for students. Without it, their belief in their own ability to find answers, and their sense of curiosity itself, will suffer. Without the desire to engage in an online search, their future education and employment will be consequently limited. The goal of this research project is to improve the resources presented to children so they better match their experience and vocabulary. Our current project involves designing and developing software modules that can interpret a child’s search intent, offer child friendly query suggestions, and provide suitable web results in response to queries written by children. This will remove the obstacles separating children from the resources they require, creating more successful searches and more successful students. The implicit belief of this research is that the only prerequisite to a search should be curiosity.
 
-This project is in collaboration with Katherine Wright in the College of Education; preliminary work is funded by a College of Education Civility Grant.
 
 ## Publications
 
-{% include project-pubs.md project="literate" %}
+{% include project-pubs.md project="bias" %}
