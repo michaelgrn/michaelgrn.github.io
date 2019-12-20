@@ -1,7 +1,4 @@
 ---
----
-
----
 title: BIAS IN RECOMMENDER SYSTEMS
 layout: splash
 header:
@@ -18,9 +15,9 @@ One of our areas of interest is bias and discrimination in recommender systems. 
 
 In this project, we are investigating several questions of fairness and bias in recommender systems:
 
--What does it mean for a recommender to be fair, unfair, or biased?
--What potentially discriminatory biases are present in the recommender’s input data, algorithmic structure, or output?
--How do these biases change over time through the recommender-user feedback loop?
+-	What does it mean for a recommender to be fair, unfair, or biased?
+-	What potentially discriminatory biases are present in the recommender’s input data, algorithmic structure, or output?
+-	How do these biases change over time through the recommender-user feedback loop?
 
 This is a part of our overall, ongoing goal to help make recommenders (and other AI systems) better for the people they affect.
 
