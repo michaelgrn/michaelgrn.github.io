@@ -1,7 +1,7 @@
 ---
 title: "Sturgeon and the Cool Kids: Problems with Top-N Recommender Evaluation"
 date: 2017-05-15
-project: tbd
+project: bias
 type: paper
 ---
 

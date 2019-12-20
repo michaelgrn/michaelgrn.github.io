@@ -23,4 +23,4 @@ This is a part of our overall, ongoing goal to help make recommenders (and other
 
 ## Publications
 
-{% include FAT18-bias.md project="bias" %}
+{% include project-pubs.md project="bias" %}
