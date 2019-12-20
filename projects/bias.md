@@ -26,4 +26,4 @@ This is a part of our overall, ongoing goal to help make recommenders (and other
 
 ## Publications
 
-[All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness](/_pubs/FAT18-bias.md)
+{% include project-pubs.md project="bias" %}
