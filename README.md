@@ -27,6 +27,15 @@ Some points to help:
 - All images must have ALT text.  If an image is purely decorative, give it empty alt text to signal that
   it is deliberately a decorative image.
 
+## Sources of Media
+
+If you're looking for pictures to use:
+
+- [Unsplash](https://unsplash.com) is a good source of free photographs.  The home page photo came from there.
+- [The Noun Project](https://thenounproject.com/) has icons.  If you find an icon there you want to use, send a link
+  to Michael and he will get a version we can use freely.
+- We can also use images from sites like Flickr if the image has a Creative Commons license.
+
 ## Adding Publications
 
 To add a publication, add a new Markdown file in the `_pubs` directory.  Do **not** add it to `pubs`; this is for managing output.
