@@ -1,8 +1,5 @@
 
 ---
----
-
----
 title: BIAS IN RECOMMENDER SYSTEMS
 layout: splash
 header:
