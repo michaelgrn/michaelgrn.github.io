@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D Ekstrand, Robin Burke, and Fernando Diaz. 2019. ["Fairness and discrimination in recommendation and retrieval"](#). In <cite>Proceedings of the 13th ACM Conference on Recommender Systems</cite>.
+Michael D Ekstrand, Robin Burke, and Fernando Diaz. 2019. ["Fairness and discrimination in recommendation and retrieval"](#). In <cite>Proceedings of the 13th ACM Conference on Recommender Systems (RecSys 19)</cite>.
 
 ## Abstract
 
@@ -14,4 +14,5 @@ Fairness and related concerns have become of increasing importance in a variety 
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1215&context=cs_facpubs)
+* [RecSys web site](https://recsys.acm.org/recsys19/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3346964)
