@@ -1,5 +1,5 @@
 ---
-title: Query formulation assistance for kids: What is available, when to help & what kids want
+title: "Query formulation assistance for kids: What is available, when to help & what kids want"
 date: 2019-06-13
 project: tbd
 type: paper

@@ -1,5 +1,5 @@
 ---
-title: Do Different Groups Have Comparable Privacy Tradeoffs
+title: "Do Different Groups Have Comparable Privacy Tradeoffs"
 date: 2018-01-05
 project: tbd
 type: paper
