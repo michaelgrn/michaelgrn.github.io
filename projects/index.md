@@ -18,6 +18,10 @@ feature_row:
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
     title: "IR for Children"
     url: "projects/irc"
+  - image_path: ../images/expirement2.png
+    alt: "A robotic arm holding a test tube that is being poured out into a beaker"
+    title: "Evaluating Recommender Systems"
+    url: "projects/eval"
 ---
 
 {% include feature_row %}
