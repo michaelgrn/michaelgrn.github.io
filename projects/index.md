@@ -1,3 +1,5 @@
+{% include feature_row %}
+
 feature_row:
   - image_path: ../images/literate-picture.jpg
     alt: "LITERATE Logo"
