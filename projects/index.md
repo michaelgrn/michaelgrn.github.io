@@ -6,7 +6,7 @@ feature_row:
     alt: "LITERATE Logo"
     title: "LITERATE"
     excerpt: "This is definitely LITERATE"
---
+---
 
 {% include feature_row id="intro" type="center" %}
 
