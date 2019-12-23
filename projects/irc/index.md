@@ -1,4 +1,3 @@
-
 ---
 title: IR for CHILDREN
 layout: splash
