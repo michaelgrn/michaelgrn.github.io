@@ -1,6 +1,3 @@
-
-eval
-
 ---
 title: Projects Page
 layout: splash
