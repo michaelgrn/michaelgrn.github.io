@@ -6,7 +6,7 @@ header:
     overlay_image: /images/projects.jpg
     caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
 excerpt:
-    Projects that the PIReT team are currently engaged in.
+    We have several different ongoing projects in PIReT; visit the links below to read more.
 feature_row:
   - image_path: ../images/SoleStudents.jpg
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
