@@ -4,11 +4,11 @@ layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/projects.jpg
-    caption: "Photo by Helloquence on Unsplash(https://unsplash.com/photos/5fNmWej4tAA)"
+    caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
 excerpt:
     Projects that the PIReT team are currently engaged in.
 feature_row:
-  - image_path: ../images/ClassroomLogo.png
+  - image_path: [../images/ClassroomLogo.png](projects/literate/)
     alt: "A teacher with a super hero cape sitting in a chair with two students, one boy one girl, using a computer to research dinosaurs and planets"
     title: "LITERATE"
     url: "projects/literate/"
