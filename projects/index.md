@@ -8,7 +8,7 @@ header:
 excerpt:
     Projects that the PIReT team are currently engaged in.
 feature_row:
-  - image_path: [../images/ClassroomLogo.png](projects/literate/)
+  - image_path: ../images/ClassroomLogo.png
     alt: "A teacher with a super hero cape sitting in a chair with two students, one boy one girl, using a computer to research dinosaurs and planets"
     title: "LITERATE"
     url: "projects/literate/"
