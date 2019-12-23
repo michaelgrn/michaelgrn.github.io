@@ -35,6 +35,5 @@ feature_row:
     btn_class: "btn--x-large"
     
 ---
-<a href="https://meta.stackoverflow.com/users/44330/jason-s">
+
 {% include feature_row type="center"%}
-</a>
