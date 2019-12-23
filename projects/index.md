@@ -24,4 +24,4 @@ feature_row:
     url: "projects/eval"
 ---
 
-{% include feature_row %}
+{% include feature_row type="center"%}
