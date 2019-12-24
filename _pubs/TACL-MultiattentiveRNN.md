@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Ion Madrazo Azpiazu and Maria Soledad Pera. 2019. ["Multiattentive Recurrent Neural Network Architecture for Multilingual Readability Assessment"](#). In <cite>Azpiazu, I. M., & Pera, M. S. (2019). Is cross‐lingual readability assessment possible?. Transactions of the Association for Computational Linguistics (TACL 2019)</cite>.
+Ion Madrazo Azpiazu and Maria Soledad Pera. 2019. ["Multiattentive Recurrent Neural Network Architecture for Multilingual Readability Assessment"](#). In <cite>Transactions of the Association for Computational Linguistics (TACL 2019)</cite>.
 
 ## Abstract
 

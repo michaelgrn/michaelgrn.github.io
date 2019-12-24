@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Ion Madrazo Azpiazu and Maria Soledad Pera. 2019. ["Is cross‐lingual readability assessment possible?"](#). In <cite>Azpiazu, I. M., & Pera, M. S. (2019). Is cross‐lingual readability assessment possible?. Journal of the Association for Information Science and Technology (JASIST 2019)</cite>.
+Ion Madrazo Azpiazu and Maria Soledad Pera. 2019. ["Is cross‐lingual readability assessment possible?"](#). In <cite>Journal of the Association for Information Science and Technology (JASIST 2019)</cite>.
 
 ## Abstract
 
