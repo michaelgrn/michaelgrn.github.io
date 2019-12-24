@@ -1,9 +1,10 @@
 ---
 title: "3rd KidRec Workshop: What does good look like?"
 date: 2019-06-12
-project: "irc"
+project: /irc
 type: paper
 ---
+
 
 {: .citation}
 Theo Huibers, Natalia Kucirkova, Emiliana Murgia, Jerry Alan Fails, Monica Landoni, and Maria Soledad Pera. 2019. ["3rd KidRec Workshop: What does good look like?"](#). In <cite>Proceedings of the 18th ACM International Conference on Interaction Design and Children (IDC 2019)</cite>.
