@@ -25,7 +25,7 @@ feature_row:
     btn_class: "btn--x-large"
   - image_path: ../images/experiment2.png
     alt: "A robotic arm holding a test tube that is being poured out into a beaker"
-    url: "projects/evaluation"
+    url: "projects/evaluation/"
     btn_label: "Evaluating Recommender Systems"
     btn_class: "btn--x-large"
   - image_path: ../images/racism.png
