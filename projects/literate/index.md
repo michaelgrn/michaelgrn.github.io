@@ -3,7 +3,7 @@ title: LITERATE
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/bias.jpg
+    overlay_image: /images/literate-picture.jpg
     caption: "Photo by [Ryan Wallace](https://unsplash.com/photos/azA1hLbjBBo)"
 excerpt:
     Information retrieval and human-computer interaction at Boise State University.
