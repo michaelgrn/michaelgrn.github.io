@@ -73,11 +73,6 @@ automatically takes care of laying out the alternating picture display.
 
     **Ngozi Ihemelandu** is a second year PhD student in Computing with an emphasis in Data science at Boise State University. She received her Master’s in Software Engineering from Texas State University, San Marcos and she is currently working with Dr. Michael Ekstrand on Recommender Systems.
 
--   ![Oghenemaro Anuyah](../images/Oghenemaro_pic.jpg)
-    {: .pic}
-
-    **Oghenemaro Anuyah** is a second year PhD student in Computer Science at Boise State. She completed her Bachelor’s in Computer Science in Nigeria and her MS in Computer Science here at Boise State, in 2018. She currently works as a Research Assistant with Dr. Sole Pera. Her research involves developing an internet search user interface tailored to the skills and needs of children ranging from 6-11 years old.  She has been actively involved with the People and Information Research Team (PIReT) from Spring 2017. Further information about her can be [found on her website](http://maroanuyah.github.io).
-
 -   ![Sandra Ambriz](../images/Sandra_pic.jpg)
     {: .pic}
 
