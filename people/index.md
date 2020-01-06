@@ -66,7 +66,7 @@ automatically takes care of laying out the alternating picture display.
 -   ![Lawrence Spear](../images/Lawrence_pic.jpg)
     {: .pic}
 
-    **Lawrence Spear** Lawrence Spear is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
+    **Lawrence Spear** is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
 
 -   ![Michael Green](../images/MichaelG_pic.jpg)
     {: .pic}
