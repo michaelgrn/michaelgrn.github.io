@@ -63,6 +63,11 @@ automatically takes care of laying out the alternating picture display.
 
     I am [**Ion Madrazo Azpiazu**](https://ionmadrazo.github.io/), a PhD candidate at Boise State University, USA, mentored by Dr. Maria Soledad Pera. My research area includes Natural Language Processing, Information Retrieval, and Machine Learning, with an emphasis on multi- and cross-lingual scenarios. I completed my Bachelor’s degree in Computer Science, as well as my Master’s degree in Intelligent Systems and Computation at the University of the Basque Country, where I actively collaborated with IXA NLP research group. I have also collaborated with Zalando Research and I am currently an active member of People and Information Research Team (PIReT).
 
+-   ![Lawrence Spear](../images/.jpg)
+    {: .pic}
+
+    **Lawrence Spear** Lawrence Spear is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
+
 -   ![Michael Green](../images/MichaelG_pic.jpg)
     {: .pic}
 
