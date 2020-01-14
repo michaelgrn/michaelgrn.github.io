@@ -1,6 +1,6 @@
 ---
 title: "Genre prediction to inform the recommendation process"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---

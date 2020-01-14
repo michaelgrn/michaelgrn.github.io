@@ -1,6 +1,6 @@
 ---
 title: "Finding, understanding and learning: Making information discovery tasks useful for children and teachers"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---

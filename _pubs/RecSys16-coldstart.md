@@ -1,6 +1,6 @@
 ---
 title: "Anything Fun Going On?':' A Simple Wizard to Avoid the Cold-Start Problem for Event Recommenders"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---

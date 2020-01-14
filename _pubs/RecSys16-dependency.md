@@ -1,6 +1,6 @@
 ---
 title: "Dependency Injection with Static Analysis and Context-Aware Policy"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---

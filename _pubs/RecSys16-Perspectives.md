@@ -1,6 +1,6 @@
 ---
 title: "'One Size Doesn’t Fit All'':' Helping Users Find Events from Multiple Perspectives"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Is Readability a Valuable Signal for Hashtag Recommendations?"
-date: 2016
+date: 2016-01-01
 project: tbd
 type: paper
 ---
