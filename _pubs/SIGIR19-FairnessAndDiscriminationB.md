@@ -15,5 +15,5 @@ Fairness and related concerns have become of increasing importance in a variety 
 ## Links
 
 * [Paper PDF](http://delivery.acm.org/10.1145/3340000/3331380/p1403-ekstrand.pdf?ip=132.178.207.20&id=3331380&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EA938C0F0E726A157%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1576898549_9b11b3b27460b52e557f51072d2b857a)
-* [SIGIR web site](http://sigir.org/sigir2019/)
+* [Published Version](http://sigir.org/sigir2019/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3331380)

@@ -15,5 +15,5 @@ Since 2010, we have built and maintained LensKit, an open-source toolkit for bui
 ## Links
 
 * [Paper PDF](https://drive.google.com/file/d/1K-8A-pb5y1_qZZD7nx6rtBNTVXKntJA-/view)
-* [REVEAL workshop web site](https://sites.google.com/view/reveal2018/home?authuser=0)
+* [Published Version](https://sites.google.com/view/reveal2018/home?authuser=0)
 * [Proceedings](https://sites.google.com/view/reveal2018/proceedings?authuser=0)

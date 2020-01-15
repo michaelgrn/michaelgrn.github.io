@@ -15,5 +15,5 @@ Recommender algorithms performance is often associated with the availability of 
 ## Links
 
 * [Paper PDF](https://arxiv.org/pdf/1808.08274.pdf)
-* [RecSys web site](https://recsys.acm.org/recsys18/)
+* [Published Version](https://recsys.acm.org/recsys18/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3240323)

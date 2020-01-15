@@ -15,5 +15,5 @@ We present StoryTime, a book recommender for children. Our webbased recommender 
 ## Links
 
 * [Paper PDF](http://delivery.acm.org/10.1145/3350000/3347048/p544-milton.pdf?ip=132.178.207.4&id=3347048&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EA938C0F0E726A157%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1576617922_a072a563950a930fb60b1692e1118e5e)
-* [RecSys web site](https://recsys.acm.org/recsys19/)
+* [Published Version](https://recsys.acm.org/recsys19/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3298689&picked=prox)

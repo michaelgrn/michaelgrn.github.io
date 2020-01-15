@@ -15,5 +15,5 @@ The Internet is the biggest data-sharing platform, comprised of an immeasurable 
 ## Links
 
 * [Paper PDF](https://ionmadrazo.github.io/papers/pdf/svenseven.pdf)
-* [RecSys web site](https://dl.acm.org/doi/10.1145/2911451.2914738)
+* [Published Version](https://dl.acm.org/doi/10.1145/2911451.2914738)
 * [Proceedings](https://dl.acm.org/doi/10.1145/2911451.2914738)

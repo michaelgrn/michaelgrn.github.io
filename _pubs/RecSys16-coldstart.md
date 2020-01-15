@@ -14,4 +14,4 @@ In this demo, we showcase a set up wizard designed to bypass the cold start prob
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1077&context=cs_facpubs)
-* [RecSys web site](https://scholarworks.boisestate.edu/cs_facpubs/74/)
+* [Published Version](https://scholarworks.boisestate.edu/cs_facpubs/74/)

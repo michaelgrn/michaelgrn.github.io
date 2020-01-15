@@ -14,4 +14,4 @@ In this paper we present a time-based genre prediction strategy that can inform 
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1076&context=cs_facpubs)
-* [RecSys web site](https://scholarworks.boisestate.edu/cs_facpubs/75/)
+* [Published Version](https://scholarworks.boisestate.edu/cs_facpubs/75/)

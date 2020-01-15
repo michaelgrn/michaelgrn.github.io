@@ -15,5 +15,5 @@ Behaviorism is the currently-dominant paradigm for building and evaluating recom
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1082&context=cs_facpubs)
-* [RecSys web site](https://doi.org/10.1145/2959100.2959179)
+* [Published Version](https://doi.org/10.1145/2959100.2959179)
 * [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/2959100)

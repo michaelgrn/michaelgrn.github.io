@@ -14,5 +14,5 @@ Fairness and related concerns have become of increasing importance in a variety 
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1215&context=cs_facpubs)
-* [RecSys web site](https://recsys.acm.org/recsys19/)
+* [Published Version](https://recsys.acm.org/recsys19/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3346964)

@@ -14,4 +14,4 @@ The first Workshop on Responsible Recommendation (FATREC) was held in conjunctio
 
 ## Links
 
-* [RecSys web site] https://dl.acm.org/doi/10.1145/3109859.3109960
+* [Published Version] https://dl.acm.org/doi/10.1145/3109859.3109960
