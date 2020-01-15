@@ -21,4 +21,4 @@ interaction, information retrieval, natural language processing, education, and 
 ## Links
 
 * [Paper PDF](https://kidrec.github.io/papers/KidRec_2019_paper_5.pdf)
-* [KidRec web site](https://kidrec.github.io/)
+* [Published Version](https://kidrec.github.io/)

@@ -15,5 +15,5 @@ This workshop explores challenges in responsible information retrieval system de
 ## Links
 
 * [Paper PDF](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/olteanu-2019-workshop.pdf)
-* [FactsIR web site](http://sigir.org/sigir2019/)
+* [Published Version](http://sigir.org/sigir2019/)
 * [Proceedings](https://dl.acm.org/citation.cfm?doid=3331184.3331644)

@@ -14,4 +14,4 @@ Most research efforts related to automatic readability assessment focus on the d
 
 ## Links
 
-* [Official version at JASIST](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24293)
+* [Published Version](https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24293)

@@ -14,4 +14,4 @@ The purpose of the SIGIR 2019 workshop on Fairness, Accountability, Confidential
 ## Links
 
 * [Paper PDF](http://sigir.org/wp-content/uploads/2019/december/p020.pdf)
-* [FactsIR web site](http://sigir.org/sigir2019/)
+* [Published Version](http://sigir.org/sigir2019/)
