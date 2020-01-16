@@ -1,5 +1,5 @@
 ---
-title: IR for CHILDREN
+title: IR for Children
 layout: splash
 header:
     overlay_filter: "0.5"
