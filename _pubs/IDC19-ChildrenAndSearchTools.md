@@ -1,7 +1,7 @@
 ---
 title: "Children and search tools: Evaluation remains unclear"
 date: 2019-06-12
-project: irc
+project: ir-kids
 type: paper
 ---
 

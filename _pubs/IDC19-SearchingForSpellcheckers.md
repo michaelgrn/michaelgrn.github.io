@@ -1,7 +1,7 @@
 ---
 title: "Searching for spellcheckers: What kids want, what kids need"
 date: 2019-06-12
-project: irc
+project: ir-kids
 type: paper
 ---
 
