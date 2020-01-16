@@ -14,3 +14,5 @@ Right now, popular search engines work best for a general audience who is alread
 
 
 ## Publications
+
+{% include project-pubs.md project="ir-kids" %}
