@@ -10,7 +10,7 @@ excerpt:
 feature_row:
   - image_path: ../images/SoleStudents.jpg
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
-    url: "projects/irc"
+    url: "projects/ir-kids"
     btn_label: "IR for Children"
     btn_class: "btn--x-large"
   - image_path: ../images/ClassroomLogo.png
