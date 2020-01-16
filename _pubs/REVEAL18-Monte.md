@@ -15,5 +15,5 @@ Traditional offline evaluations of recommender systems apply metrics from machin
 ## Links
 
 * [Paper PDF](https://md.ekstrandom.net/pubs/reveal2018-mceval.pdf)
-* [REVEAL workshop web site](https://sites.google.com/view/reveal2018/home?authuser=0)
+* [Published Version](https://sites.google.com/view/reveal2018/home?authuser=0)
 * [Proceedings](https://sites.google.com/view/reveal2018/proceedings?authuser=0)

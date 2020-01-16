@@ -16,5 +16,5 @@ Today's children spend considerable time online, searching and receiving informa
 ## Links
 
 * [Paper PDF](https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1210&context=cs_facpubs)
-* [IDC web site](http://idc.acm.org/2019)
+* [Published Version](http://idc.acm.org/2019)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3325162)

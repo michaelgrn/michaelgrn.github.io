@@ -38,4 +38,4 @@ strategy to ensure diversity among suggestions.
 ## Links
 
 * [WinDS2019 web site](https://sites.google.com/view/winds2019/home/accepted-papers?authuser=0)
-* [Proceedings](https://dl.acm.org/citation.cfm?id=3316475)
+* [Published Version](https://dl.acm.org/citation.cfm?id=3316475)

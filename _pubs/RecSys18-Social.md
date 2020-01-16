@@ -14,6 +14,5 @@ Games play a significant role in modern society, since they affect people of all
 
 ## Links
 
-* [Paper PDF](http://delivery.acm.org/10.1145/3250000/3240405/p209-ng.pdf?ip=132.178.207.4&id=3240405&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EA938C0F0E726A157%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1576616014_d8328097a9124a90bfc3b2886dad932d)
-* [RecSys web site](https://recsys.acm.org/recsys18/)
+* [Published Version](https://recsys.acm.org/recsys18/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3240323)

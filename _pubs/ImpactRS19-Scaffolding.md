@@ -15,5 +15,5 @@ Reading and literacy are on the decline among children. This is compounded by th
 ## Links
 
 * [Paper PDF](https://md.ekstrandom.net/pubs/reveal2018-mceval.pdf)
-* [ImpactRS workshop web site](https://impactrs19.github.io/)
+* [Published Version](https://impactrs19.github.io/)
 * [Proceedings](http://ceur-ws.org/Vol-2462/)

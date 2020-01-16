@@ -15,5 +15,5 @@ Children use popular web search tools, which are generally designed for adult us
 ## Links
 
 * [Paper PDF](http://delivery.acm.org/10.1145/3330000/3323131/p109-fails.pdf?ip=132.178.207.20&id=3323131&acc=OPENTOC&key=A79D83B43E50B5B8%2EA938C0F0E726A157%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1576900978_cf7a7439d947336e45a5ba50bac71d16)
-* [IDC web site](http://idc.acm.org/2019/proceedings/)
+* [Published Version](http://idc.acm.org/2019/proceedings/)
 * [Proceedings](https://dl.acm.org/citation.cfm?id=3323131)

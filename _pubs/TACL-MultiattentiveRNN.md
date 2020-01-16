@@ -14,4 +14,4 @@ We present a multiattentive recurrent neural network architecture for automatic 
 
 ## Links
 
-* [Official version at TACL](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00278)
+* [Published Version](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00278)

@@ -14,5 +14,5 @@ Children struggle with translating their information needs into effective querie
 
 ## Links
 
-* [CLEF web site](https://link.springer.com/conference/clef)
+* [Published Version](https://link.springer.com/conference/clef)
 * [Proceedings](https://link.springer.com/chapter/10.1007/978-3-030-28577-7_6)
