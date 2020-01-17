@@ -26,6 +26,10 @@ by [Sole Pera and Michael Ekstrand](/people/#faculty).
 -   [Follow the PIReT Ship on Twitter](https://twitter.com/intent/follow?screen_name=PIReTship).
 -   [Read about our current projects](http://piret.info/projects/)
 
-<figure class="text-center half">
+<figure class="text-center half group-photo">
   <img src="images/piret_group_pic.jpg" alt="PIReT Group Photo">
 </figure>
+
+<div class=tl-embed>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/PIReTship?ref_src=twsrc%5Etfw">Tweets by PIReTship</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
