@@ -42,9 +42,9 @@ toc_icon: "cog"
 ---
 
 {% include toc icon="cog" title="My Table of Contents" %}
-
+<h1>Project1</h1>
 <a id="project">
-    <h1>Project</h1>
+
 </a>
 {% include feature_row type="center"%}
 
