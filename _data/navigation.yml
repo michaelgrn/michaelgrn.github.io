@@ -8,4 +8,4 @@ main:
     
 sidebar:
   - title: "Link 1 Title"
-    url: /project/
+    url: ../project/
