@@ -35,9 +35,11 @@ feature_row:
     btn_class: "btn--x-large"
     
 sidebar:
-  nav: "foo"
+  nav: "sidebar"
 
 ---
+{% include nav_list nav="sidebar" %}
+
 <a id="project">
 {% include feature_row type="center"%}
 </a>
