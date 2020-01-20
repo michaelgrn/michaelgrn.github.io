@@ -45,5 +45,6 @@ toc_icon: "cog"
 
 <a id="project">
     <h1>Projects</h1>
+</a>
 {% include feature_row type="center"%}
 
