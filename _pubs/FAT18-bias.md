@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand, Mucun Tian, Ion Madrazo Azpiazu, Jennifer D. Ekstrand, Oghenemaro Anuyah, David McNeill, and Maria Soledad Pera. 2018. ["All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness"](#). In <cite>Proceedings of the 1st Conference on Fairness, Accountability and Transparency(FAT* 2018)</cite>.
+Michael D. Ekstrand, Mucun Tian, Ion Madrazo Azpiazu, Jennifer D. Ekstrand, Oghenemaro Anuyah, David McNeill, and Maria Soledad Pera. 2018. ["All The Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness"](#). In <cite>Proceedings of the 1st Conference on Fairness, Accountability and Transparency (FAT* 2018)</cite>.
 
 ## Abstract
 

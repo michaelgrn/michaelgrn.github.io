@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand and Vaibhav Mahant. 2017. [“Sturgeon and the Cool Kids: Problems with Top-N Recommender Evaluation"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference</cite>.
+Michael D. Ekstrand and Vaibhav Mahant. 2017. [“Sturgeon and the Cool Kids: Problems with Top-N Recommender Evaluation"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2017)</cite>.
 
 ## Abstract
 

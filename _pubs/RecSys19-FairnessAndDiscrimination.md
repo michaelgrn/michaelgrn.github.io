@@ -1,6 +1,6 @@
 ---
 title: Fairness and discrimination in recommendation and retrieval
-date: 2019-09-10
+date: 2019-09-16
 project: tbd
 type: paper
 ---

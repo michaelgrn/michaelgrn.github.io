@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Sushma Channamsetty and Michael D. Ekstrand. 2017. [“Recommender Response to Diversity and Popularity Bias in User Profiles"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference</cite>.
+Sushma Channamsetty and Michael D. Ekstrand. 2017. [“Recommender Response to Diversity and Popularity Bias in User Profiles"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2017)</cite>.
 
 ## Abstract
 

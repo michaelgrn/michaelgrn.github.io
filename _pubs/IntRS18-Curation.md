@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Nevena Dragovic, Ion Madrazo Azpiazu, and Maria Soledad Pera. 2018. ["From Recommendation to Curation: When the system becomes your personal docent"](#). In <cite>Proceedings of the Joint Workshop on Interfaces and Human Decision Making for Recommender Systems (IntRS), co-located with ACM RecSys 2018</cite>.
+Nevena Dragovic, Ion Madrazo Azpiazu, and Maria Soledad Pera. 2018. ["From Recommendation to Curation: When the system becomes your personal docent"](#). In <cite>Proceedings of the Joint Workshop on Interfaces and Human Decision Making for Recommender Systems (IntRS 2018), co-located with ACM RecSys 2018</cite>.
 
 ## Abstract
 

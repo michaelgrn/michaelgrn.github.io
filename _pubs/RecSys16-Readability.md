@@ -1,12 +1,12 @@
 ---
 title: "Is Readability a Valuable Signal for Hashtag Recommendations?"
-date: 2016-01-01
+date: 2016-09-15
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Ion Madrazo Azpiazu and Maria Soledad Pera. 2016. ["Is Readability a Valuable Signal for Hashtag Recommendations?"](#). 
+Ion Madrazo Azpiazu and Maria Soledad Pera. 2016. ["Is Readability a Valuable Signal for Hashtag Recommendations?"](#). In <cite>Proceedings of the Poster Track of the  10th ACM Conference on Recommender Systems (RecSys 2016)</cite>. 
 
 ## Abstract
 

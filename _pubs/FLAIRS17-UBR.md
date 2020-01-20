@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Jason Hall and Sole Pera. 2017. [“UBR: A Book Search–Recommender Hybrid"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference</cite>.
+Jason Hall and Sole Pera. 2017. [“UBR: A Book Search–Recommender Hybrid"](#). In <cite>Proceedings of the 30th International Florida Artificial Intelligence Research Society Conference (FLAIRS 2017)</cite>.
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 ---
 title: "Finding, understanding and learning: Making information discovery tasks useful for children and teachers"
-date: 2016-01-01
+date: 2016-09-15
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Ion Madrazo Azpiazu, Nevena Dragovic and Maria Soledad Pera. 2016. ["Finding, understanding and learning: Making information discovery tasks useful for children and teachers"](#). In <cite>Proceedings of the 10th ACM Conference on Recommender Systems (RecSys 2016 Poster Proceedings)</cite>.
+Ion Madrazo Azpiazu, Nevena Dragovic and Maria Soledad Pera. 2016. ["Finding, understanding and learning: Making information discovery tasks useful for children and teachers"](#). In <cite>Proceedings of the Poster Track of the 10th ACM Conference on Recommender Systems (RecSys 2016)</cite>.
 
 ## Abstract
 

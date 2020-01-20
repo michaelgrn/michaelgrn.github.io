@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand, Ion Madrazo Azpiazu, Katherine Landau Wright, and Maria Soledad Pera. 2018. ["Retrieving and Recommending for the Classroom: Stakeholders, Objectives, Resources, and Users"](#). In <cite>Proceedings of the ComplexRec 2018 Second Workshop on Recommendation in Complex Scenarios at RecSys 2018</cite>.
+Michael D. Ekstrand, Ion Madrazo Azpiazu, Katherine Landau Wright, and Maria Soledad Pera. 2018. ["Retrieving and Recommending for the Classroom: Stakeholders, Objectives, Resources, and Users"](#). In <cite>Proceedings of the Second Workshop on Recommendation in Complex Scenarios (ComplexRec 2018), at RecSys 2018</cite>.
 
 ## Abstract
 

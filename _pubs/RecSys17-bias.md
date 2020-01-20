@@ -1,12 +1,12 @@
 ---
 title: "The Demographics of Cool: Popularity and Recommender Performance for Different Groups of Users"
-date: 2017-08-22
+date: 2017-08-27
 project: bias
 type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand and Maria Soledad Pera. 2017. ["The Demographics of Cool: Popularity and Recommender Performance for Different Groups of Users"](#). In <cite>Proceedings of the Poster Track of the 11th ACM Conference on Recommender Systems (RecSys 2017 Poster Proceedings)</cite>.
+Michael D. Ekstrand and Maria Soledad Pera. 2017. ["The Demographics of Cool: Popularity and Recommender Performance for Different Groups of Users"](#). In <cite>Proceedings of the Poster Track of the 11th ACM Conference on Recommender Systems (RecSys 2017)</cite>.
 
 ## Abstract
 

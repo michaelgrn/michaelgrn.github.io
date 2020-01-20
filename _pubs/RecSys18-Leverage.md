@@ -1,12 +1,12 @@
 ---
 title: Can we leverage rating patterns from traditional users to enhance recommendations for children?
-date: 2018-08-06
+date: 2018-10-02
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Ion Madrazo Azpiazu, Micahel Green, Oghenemaro Anuyah, and Maria Soledad Pera. 2018. ["Can we leverage rating patterns from traditional users to enhance recommendations for children?"](#). In <cite>Poster Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
+Ion Madrazo Azpiazu, Micahel Green, Oghenemaro Anuyah, and Maria Soledad Pera. 2018. ["Can we leverage rating patterns from traditional users to enhance recommendations for children?"](#). In <cite>Proceedings of the Poster Track of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
 
 ## Abstract
 

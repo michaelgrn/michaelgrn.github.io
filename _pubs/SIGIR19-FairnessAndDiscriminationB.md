@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D Ekstrand, Robin Burke, and Fernando Diaz. 2019. ["Fairness and Discrimination in Retrieval and Recommendation"](#). In <cite>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>.
+Michael D Ekstrand, Robin Burke, and Fernando Diaz. 2019. ["Fairness and Discrimination in Retrieval and Recommendation"](#). In <cite>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019)</cite>.
 
 ## Abstract
 

@@ -1,6 +1,6 @@
 ---
 title: Exploring Author Gender in Book Rating and Recommendation
-date: 2018-08-06
+date: 2018-10-02
 project: tbd
 type: paper
 ---

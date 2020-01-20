@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Brody Downs, Tyler French, Katherine Landau Wright, Maria Soledad Pera, Casey Kennington, and Jerry Alan Fails. 2019. ["Searching for spellcheckers: What kids want, what kids need"](#). In <cite>KidRec Workshop co-located with ACM IDC 2019 (KidRec 2019)</cite>.
+Brody Downs, Tyler French, Katherine Landau Wright, Maria Soledad Pera, Casey Kennington, and Jerry Alan Fails. 2019. ["Children and search tools: Evaluation remains unclear"](#). In <cite> Proceedings of the 3rd International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems (KidRec 2019), co-located with ACM IDC 2019</cite>.
 
 ## Abstract
 

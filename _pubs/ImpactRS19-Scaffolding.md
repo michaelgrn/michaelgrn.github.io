@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Ashlee Milton, Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2019. ["Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations"](#). In <cite>Proceedings of the 1st Workshop on the Impact of Recommender Systems co-located with the 13th ACM Conference on Recommender Systems (RecSys 2019)</cite>.
+Ashlee Milton, Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2019. ["Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations"](#). In <cite>Proceedings of the 1st Workshop on the Impact of Recommender Systems co-located with the 13th ACM Conference on Recommender Systems (ImpactRS 2019)</cite>.
 
 ## Abstract
 

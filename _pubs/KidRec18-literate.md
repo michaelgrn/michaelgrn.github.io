@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Maria Soledad Pera, Katherine Wright, Michael D. Ekstrand. 2018. ["Recommending Texts to Children with an Expert in the Loop"](#). In <cite>Proceedings of the 2nd International Workshop on Children & Recommender Systems (KidRec) at IDC 2018</cite>.
+Maria Soledad Pera, Katherine Wright, Michael D. Ekstrand. 2018. ["Recommending Texts to Children with an Expert in the Loop"](#). In <cite>Proceedings of the 2nd International Workshop on Children & Recommender Systems (KidRec 2018), co-located with ACM IDC 2018</cite>.
 
 ## Abstract
 

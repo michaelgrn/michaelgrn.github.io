@@ -1,6 +1,6 @@
 ---
 title: Can Readability Enhance Recommendations on Community Question Answering Sites?
-date: 2017-08-22
+date: 2017-08-27
 project: tbd
 type: paper
 ---

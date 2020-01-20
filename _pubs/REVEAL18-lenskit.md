@@ -1,12 +1,12 @@
 ---
 title: The LKPY Package for Recommender Systems Experiments
-date: 2018-08-13
+date: 2018-10-02
 project: lenskit
 type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand. 2018. ["The LKPY Package for Recommender Systems Experiments"](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems at RecSys 2018</cite>.
+Michael D. Ekstrand. 2018. ["The LKPY Package for Recommender Systems Experiments"](#). In <cite>Proceedings of the REVEAL 2018 Workshop on Offline evaluation for recommender systems, co-located with ACM RecSys 2018</cite>.
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 ---
 title: "'One Size Doesn’t Fit All'':' Helping Users Find Events from Multiple Perspectives"
-date: 2016-01-01
+date: 2016-09-15
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Sean MacLachlan, Stacey Donohue, Nevena Dragovic and Maria Soledad Pera. 2016. ["'One Size Doesn’t Fit All'':' Helping Users Find Events from Multiple Perspectives"](#). 
+Sean MacLachlan, Stacey Donohue, Nevena Dragovic and Maria Soledad Pera. 2016. ["'One Size Doesn’t Fit All'':' Helping Users Find Events from Multiple Perspectives"](#). In <cite> the Proceedings of the Workshop on Recommenders in Tourism (RecTour 2016), co-located with ACM RecSys 2016 </cite>.
 
 ## Abstract
 

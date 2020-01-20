@@ -1,12 +1,12 @@
 ---
 title: "Anything Fun Going On?':' A Simple Wizard to Avoid the Cold-Start Problem for Event Recommenders"
-date: 2016-01-01
+date: 2016-09-15
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Stacey Donohue, Nevena Dragovic and Maria Soledad Pera. 2016. ["Anything Fun Going On?':' A Simple Wizard to Avoid the Cold-Start Problem for Event Recommenders"](#). In <cite>Proceedings of the 10th ACM Conference on Recommender Systems (RecSys 2016 Poster Proceedings)</cite>.
+Stacey Donohue, Nevena Dragovic and Maria Soledad Pera. 2016. ["Anything Fun Going On?':' A Simple Wizard to Avoid the Cold-Start Problem for Event Recommenders"](#). In <cite>Proceedings of the Poster Track of the 10th ACM Conference on Recommender Systems (RecSys 2016)</cite>.
 
 ## Abstract
 

@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Ashlee Milton, Michael Green, Adam Keener, Joshua Ames, Michael D Ekstrand, Maria Soledad Pera. 2019. ["StoryTime: eliciting preferences from children for book recommendations"](#). In <cite>Proceedings of the 13th ACM Conference on Recommender Systems, demo track(RecSys 2019 Late-Breaking Results)</cite>.
+Ashlee Milton, Michael Green, Adam Keener, Joshua Ames, Michael D Ekstrand, Maria Soledad Pera. 2019. ["StoryTime: eliciting preferences from children for book recommendations"](#). In <cite>Proceedings of the Demo Track of the 13th ACM Conference on Recommender Systems (RecSys 2019)</cite>.
 
 ## Abstract
 

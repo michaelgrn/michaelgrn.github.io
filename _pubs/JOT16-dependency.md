@@ -1,12 +1,12 @@
 ---
 title: "Dependency Injection with Static Analysis and Context-Aware Policy"
-date: 2016-01-01
+date: 2016-09-15
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand and Michael Ludwig. 2016. ["Dependency Injection with Static Analysis and Context-Aware Policy"](#). <cite>Journal of Object Technology(Volume 15)</cite>.
+Michael D. Ekstrand and Michael Ludwig. 2016. ["Dependency Injection with Static Analysis and Context-Aware Policy"](#). <cite>Journal of Object Technology, 15(1), 1-1</cite>.
 
 ## Abstract
 

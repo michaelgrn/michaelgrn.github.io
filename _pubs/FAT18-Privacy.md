@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand, Rezvan Joshaghani, and Hoda Mehrpouyan. 2018. ["Privacy for All: Ensuring Fair and Equitable Privacy Protections"](#). In <cite>Proceedings of the 1st Conference on Fairness, Accountability and Transparency(FAT* 2018)</cite>.
+Michael D. Ekstrand, Rezvan Joshaghani, and Hoda Mehrpouyan. 2018. ["Privacy for All: Ensuring Fair and Equitable Privacy Protections"](#). In <cite>Proceedings of the 1st Conference on Fairness, Accountability and Transparency (FAT* 2018)</cite>.
 
 ## Abstract
 

@@ -1,6 +1,6 @@
 ---
 title: "Behaviorism is Not Enough':' Better Recommendations through Listening to Users"
-date: 2016-09-07
+date: 2016-09-15
 project: tbd
 type: paper
 ---
