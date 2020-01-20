@@ -35,12 +35,12 @@ feature_row:
     btn_class: "btn--x-large"
     
 
-toc: true
-toc_label: "sidebar"
-toc_icon: "cog"
+sidebar:
+  nav: "foo"
+
 ---
 
-{% include toc icon="cog" title="My Table of Contents" %}
+
 
 
 <a id="project">
