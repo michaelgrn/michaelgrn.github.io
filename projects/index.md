@@ -34,11 +34,14 @@ feature_row:
     btn_label: "Bias and Discrimination in Recommender Systems"
     btn_class: "btn--x-large"
     
-sidebar:
-  nav: "sidebar"
 
+toc: true
+toc_label: "sidebar"
+toc_icon: "cog"
 ---
-{% include nav_list nav="sidebar" %}
+
+{% include toc icon="cog" title="My Table of Contents" %}
+
 
 <a id="project">
 {% include feature_row type="center"%}
