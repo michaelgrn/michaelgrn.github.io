@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Anu Shresta, Francesca Spezzano, and Maria Soledad Pera. 2018. ["Who is Really Affected by Fraudulent Reviews?: An analysis of shilling attacks on recommender systems in real-world scenarios"](#). In <cite>Proceedings of the Poster Track of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
+Anu Shresta, Francesca Spezzano, and Maria Soledad Pera. 2018. ["Who is Really Affected by Fraudulent Reviews?: An analysis of shilling attacks on recommender systems in real-world scenarios"](#). In <cite>Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 2018 Late-Breaking Results)</cite>.
 
 ## Abstract
 

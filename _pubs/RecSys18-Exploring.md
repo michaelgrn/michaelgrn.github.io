@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand, Mucun Tian, Mohammed R. Imran Kazi, Hoda Mehrpouyan, and Daniel Kluver. 2018. ["Exploring Author Gender in Book Rating and Recommendation"](#). In <cite>Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 18)</cite>.
+Michael D. Ekstrand, Mucun Tian, Mohammed R. Imran Kazi, Hoda Mehrpouyan, and Daniel Kluver. 2018. ["Exploring Author Gender in Book Rating and Recommendation"](#). In <cite>Proceedings of the 12th ACM Conference on Recommender Systems (RecSys 2018)</cite>.
 
 ## Abstract
 

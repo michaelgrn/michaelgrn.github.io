@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Michael D. Ekstrand, and Amit Sharma. 2017. ["FATREC Workshop on Responsible Recommendation"](#). In <cite>Proceedings of the Eleventh ACM Conference on Recommender Systems (RecSys 2017)</cite>.
+Michael D. Ekstrand, and Amit Sharma. 2017. ["FATREC Workshop on Responsible Recommendation"](#). In <cite>Proceedings of the 11th ACM Conference on Recommender Systems (RecSys 2017)</cite>.
 
 ## Abstract
 

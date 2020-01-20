@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Oghenemaro Anuyah, Ion Madrazo Azpiazu, David McNeill, Maria Soledad Pera. 2017. ["Can Readability Enhance Recommendations on Community Question Answering Sites?"](#). In <cite>Proceedings of the Poster Track of the 11th ACM Conference on Recommender Systems (RecSys 2017)</cite>.
+Oghenemaro Anuyah, Ion Madrazo Azpiazu, David McNeill, Maria Soledad Pera. 2017. ["Can Readability Enhance Recommendations on Community Question Answering Sites?"](#). In <cite>Proceedings of the 11th ACM Conference on Recommender Systems (RecSys 2017 Poster Proceedings)</cite>.
 
 ## Abstract
 
