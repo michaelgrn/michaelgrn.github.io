@@ -89,8 +89,9 @@ automatically takes care of laying out the alternating picture display.
 
 ## Alumni
 
-- Ion Madrazo Azpiazu (Ph.D 2019)
-- Mucun Tian (MS 2019)
-- Oghenemaro Anuyah (MS 2018)
-- David McNeill (BS 2016)
-- Nevena Dragovic (MS 2016)
+- Ion Madrazo Azpiazu (M.S. 2016, Ph.D 2019)
+- Mucun Tian (M.S. 2019)
+- Oghenemaro Anuyah (M.S. 2018)
+- Patrick Cullings (B.S. 2018)
+- David McNeill (B.S. 2016)
+- Nevena Dragovic (M.S. 2016)
