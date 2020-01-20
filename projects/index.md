@@ -45,4 +45,4 @@ sidebar:
 
 <a id="project">
 {% include feature_row type="center"%}
-</a>
+
