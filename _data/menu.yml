@@ -1,0 +1,4 @@
+# _data/menu.yml
+foo:
+  - title: "Link 1 Title"
+    url: /projects/
