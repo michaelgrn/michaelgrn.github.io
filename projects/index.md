@@ -34,6 +34,10 @@ feature_row:
     btn_label: "Bias and Discrimination in Recommender Systems"
     btn_class: "btn--x-large"
     
----
+sidebar:
+  nav: "foo"
 
+---
+<a id="project">
 {% include feature_row type="center"%}
+</a>
