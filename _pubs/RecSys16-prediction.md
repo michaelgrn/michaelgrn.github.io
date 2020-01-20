@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Nevena Dragovic and Maria Soledad Pera. 2016. ["Genre prediction to inform the recommendation process"](#). In <cite>Proceedings of the 10th ACM Conference on Recommender Systems (RecSys 2016)</cite>.
+Nevena Dragovic and Maria Soledad Pera. 2016. ["Genre prediction to inform the recommendation process"](#). In <cite>Proceedings of the 10th ACM Conference on Recommender Systems (RecSys 2016 Poster Proceedings)</cite>.
 
 ## Abstract
 
