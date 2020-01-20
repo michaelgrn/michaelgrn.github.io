@@ -5,3 +5,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /pubs/
+    
+sidebar:
+  - title: "Link 1 Title"
+    url: /project/
