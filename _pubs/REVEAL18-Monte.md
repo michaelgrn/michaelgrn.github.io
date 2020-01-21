@@ -1,7 +1,7 @@
 ---
 title: Monte Carlo Estimates of Evaluation Metric Error and Bias
 date: 2018-10-02
-project: lenskit
+project: evaluation
 type: paper
 ---
 

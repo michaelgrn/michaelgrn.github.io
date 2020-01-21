@@ -1,7 +1,7 @@
 ---
 title: "The Dagstuhl Perspectives Workshop on Performance Modeling and Prediction"
 date: 2018-05-01
-project: tbd
+project: evaluation
 type: paper
 ---
 

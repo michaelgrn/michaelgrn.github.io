@@ -1,7 +1,6 @@
 ---
 title: "Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR)"
 date: 2019-07-25
-project: tbd
 type: paper
 ---
 
