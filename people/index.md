@@ -58,10 +58,6 @@ automatically takes care of laying out the alternating picture display.
 
     My name is **Devan Karsann** and I’m a first year master’s student in Computer Science. Dr. Sole Pera is my advisor and next semester I’m looking forward to starting my graduate project. I have a data set available to use and soon it will soon be time to defend the project proposal! During the school year I work 30 hours a week at AppDetex, a software startup in downtown Boise. This gives me to take 6 credits a semester and I’m happy about the balance. Right now I’m taking Introduction to Information Retrieval and Large-Scale Data Analysis and they’re both cool classes. My personal website can be found at <http://www.devankarsann.com>.
 
--   ![Ion Madrazo Azpiazu](../images/Ion_pic.jpg)
-    {: .pic}
-
-    I am [**Ion Madrazo Azpiazu**](https://ionmadrazo.github.io/), a PhD candidate at Boise State University, USA, mentored by Dr. Maria Soledad Pera. My research area includes Natural Language Processing, Information Retrieval, and Machine Learning, with an emphasis on multi- and cross-lingual scenarios. I completed my Bachelor’s degree in Computer Science, as well as my Master’s degree in Intelligent Systems and Computation at the University of the Basque Country, where I actively collaborated with IXA NLP research group. I have also collaborated with Zalando Research and I am currently an active member of People and Information Research Team (PIReT).
 
 -   ![Lawrence Spear](../images/Lawrence_pic.jpg)
     {: .pic}
