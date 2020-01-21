@@ -1,5 +1,5 @@
 ---
-title: BIAS IN RECOMMENDER SYSTEMS
+title: Bias in Recommender Systems
 layout: splash
 header:
     overlay_filter: "0.5"
@@ -20,6 +20,11 @@ In this project, we are investigating several questions of fairness and bias in 
 -	How do these biases change over time through the recommender-user feedback loop?
 
 This is a part of our overall, ongoing goal to help make recommenders (and other AI systems) better for the people they affect.
+
+## Links
+
+* [Fairness and Discrimination in Recommendation and Retrieval, tutorial given Sep.19 at RecSys 2019.](https://fair-ia.ekstrandom.net/recsys2019)
+* [Fair Ranking Track at TREC 2019.](https://fair-trec.github.io/)
 
 ## Publications
 
