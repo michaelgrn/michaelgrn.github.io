@@ -23,7 +23,7 @@ This is a part of our overall, ongoing goal to help make recommenders (and other
 
 ## Links
 
-* [Fairness and Discrimination in Recommendation and Retrieval, tutorial given Sep.19 at RecSys 2019.](https://fair-ia.ekstrandom.net/recsys2019)
+* [Fairness and Discrimination in Recommendation and Retrieval](https://fair-ia.ekstrandom.net/recsys2019), tutorial given Sep.19 at [RecSys 2019.](https://recsys.acm.org/recsys19/)
 * [Fair Ranking Track at TREC 2019.](https://fair-trec.github.io/)
 
 ## Publications
