@@ -1,12 +1,12 @@
 ---
-title: "FACTS-IR':' Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"
+title: "FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"
 date: 2019-12-02
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Rezvan Joshaghani, Michael D. Ekstrand, Bart Knijnenburg, and Hoda Mehrpouyan. 2019. ["FACTS-IR':' Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"](#). 
+Alexandra Olteanu, Jean Garcia-Gathright, Maarten de Rijke, and Michael D. Ekstrand. 2019. ["FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"](#). 
 
 ## Abstract
 
@@ -14,4 +14,4 @@ The purpose of the SIGIR 2019 workshop on Fairness, Accountability, Confidential
 ## Links
 
 * [Paper PDF](http://sigir.org/wp-content/uploads/2019/december/p020.pdf)
-* [Published Version](http://sigir.org/sigir2019/)
+* [Published Version](https://md.ekstrandom.net/pubs/facts-ir-forum)
