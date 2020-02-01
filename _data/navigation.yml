@@ -1,8 +1,15 @@
 main:
-  - title: "People"
-    url: /people/
-  - title: "Projects"
-    url: /projects/
+  - title: "About"
+    url: /about/
+  - title: "Education"
+    url: /education/
+  - title: "Classes"
+    url: /classes/
+  - title: "Activities"
+    url: /activities/
+  - title: "Students"
+    url: /students/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /pubs/
-   
