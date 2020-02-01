@@ -1,21 +1,15 @@
 ---
-title: People and Information Research Team
+title: Sole Pera, Ph.D.
 layout: splash
 classes:
 - homepage
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/pages.jpg
-    caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+    overlay_image: /images/header-bg.jpg
+    
 excerpt:
-    Information retrieval, recommender systems, and human-computer interaction at Boise State University.
+    Associate Professor | Boise State University | solepera@boisestate.edu
 ---
-
-<div class="principal" markdown="1">
-
-<figure class="text-center group-photo">
-  <img src="images/piret_group_pic.jpg" alt="PIReT Group Photo">
-</figure>
 
 ABOUT
 
