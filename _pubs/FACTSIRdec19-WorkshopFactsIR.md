@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Alexandra Olteanu, Jean Garcia-Gathright, Maarten de Rijke, and Michael D. Ekstrand. 2019. ["FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"](#). 
+Alexandra Olteanu, Jean Garcia-Gathright, Maarten de Rijke, and Michael D. Ekstrand. 2019. Editors["FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval"](#)<cite>SIGIR Forum 53(2) (December 2019), 20–43</cite>. 
 
 ## Abstract
 
