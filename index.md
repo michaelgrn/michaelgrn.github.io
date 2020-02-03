@@ -42,7 +42,7 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
    <br>Universidad Tecnologica Nacional, Rosario, Argentina
 </p>
 
-
+</div>
 
 <div class="tl-embed">
 <a class="twitter-timeline" data-height="800" data-dnt="true" href="https://twitter.com/DrCh0le">Tweets by Dr. Pera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
