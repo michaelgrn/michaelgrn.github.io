@@ -10,6 +10,15 @@ header:
 excerpt:
     Associate Professor
 ---
+<link href="assets/css/bootstrap.css" rel="stylesheet">
+<!-- Custom styles for this template -->
+<link href="https://solepera.github.io/assets/css/main.css" rel="stylesheet">
+<link rel="stylesheet" href="https://solepera.github.io/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://solepera.github.io/assets/css/swipebox.css">
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Raleway:400,300,700" rel="stylesheet" type="text/css">
+
+
  <div>
     <h1> ABOUT </h1>
 
