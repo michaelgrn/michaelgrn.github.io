@@ -30,7 +30,8 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
    <br>Advisor: Dr. Yiu-Kai Ng
 </p>
 <p style="text-align:left">
-   <t>M.S. in Computer Science</t>
+    <span style="float: left" >M.S. in Computer Science</span>
+    <span style="float: right; padding-right: 45px"><i>April 2009</i></span>
    &nbsp;
    <br>Brigham Young University, Provo, Utah, USA&nbsp;
    <br>Thesis: "Improving Library&nbsp;Searches Using Word-Correlation Factors
