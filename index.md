@@ -4,7 +4,6 @@ layout: splash
 classes:
 - homepage
 header:
-    overlay_filter: "0.1"
     overlay_image: /images/header-bg.png
     
 excerpt:
