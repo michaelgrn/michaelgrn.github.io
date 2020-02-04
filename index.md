@@ -22,7 +22,7 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
 <h2>EDUCATION</h2>
 
 <p style="text-align:left">
-   <t>PhD in Computer Science</t>
+    <t>PhD in Computer Science</t><span>2014</span>
    <br>Brigham Young University, Provo, Utah, USA
    <br>Proposed Dissertation Topic: "Using Online Data Sources to Make Recommendations
    on Reading Materials for K-12 and Advanced Readers" 
