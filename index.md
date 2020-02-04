@@ -22,7 +22,7 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
 <h2>EDUCATION</h2>
 
 <p style="text-align:left">
-   <span style="float: left" >PhD in Computer Science</span>
+   <span style="float: left" >Ph.D. in Computer Science</span>
     <span style="float: right; padding-right: 45px"><i>April 2014</i></span>
    <br>Brigham Young University, Provo, Utah, USA
    <br>Proposed Dissertation Topic: "Using Online Data Sources to Make Recommendations
@@ -36,11 +36,12 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
    <br>Brigham Young University, Provo, Utah, USA&nbsp;
    <br>Thesis: "Improving Library&nbsp;Searches Using Word-Correlation Factors
    and Folksonomies" 
-    <br>Advisor: Dr.Yiu-Kai Ng
+    <br>Advisor: Dr. Yiu-Kai Ng
    <br>
 </p>
 <p style="text-align:left">
-   <t>B.S. in Information Systems Analysis</t>
+  <span style="float: left" >B.S. in Information Systems Analysis</span>
+  <span style="float: right; padding-right: 45px"><i>September 2006</i></span>
    &nbsp;
    <br>Universidad Tecnologica Nacional, Rosario, Argentina
 </p>
