@@ -18,7 +18,7 @@ feature_row:
     url: "projects/evaluation/"
     btn_label: "Readability Assessment"
     btn_class: "btn--x-large"
-  - image_path: ../images/recommender.png
+  - image_path: ../images/rec.png
     alt: "a thumbs up"
     url: "projects/bias/"
     btn_label: "Recommender Systems"
