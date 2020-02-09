@@ -10,22 +10,12 @@ excerpt:
 ---
 
 
-One of our areas of interest is bias and discrimination in recommender systems. As machine learning, data mining, and other artificial intelligence techniques become increasingly pervasive in our daily lives, the research community has started to turn our attention to the question of whether they are fair. There is a variety of work happening on algorithmic fairness to try to assess whether particular systems are unfair or discriminatory, and how to mitigate this situation.
+Multilingual Readability Assessment based on the well known supervised learning techniques from the machine learning field, it makes use of hundreds of features created using Natural Language Processing methods for predicting the level of complexity of an input text. 
 
-
-In this project, we are investigating several questions of fairness and bias in recommender systems:
-
--	What does it mean for a recommender to be fair, unfair, or biased?
--	What potentially discriminatory biases are present in the recommender’s input data, algorithmic structure, or output?
--	How do these biases change over time through the recommender-user feedback loop?
-
-This is a part of our overall, ongoing goal to help make recommenders (and other AI systems) better for the people they affect.
 
 ## Links
 
-* Tutorial on [Fairness and Discrimination in Recommendation and Retrieval](https://fair-ia.ekstrandom.net/recsys2019) at [RecSys 2019.](https://recsys.acm.org/recsys19/)
-* [Fair Ranking Track](https://fair-trec.github.io/) at [TREC 2019.](https://trec.nist.gov/tracks.html)
 
 ## Publications
 
-{% include project-pubs.md project="bias" %}
+
