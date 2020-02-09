@@ -13,12 +13,12 @@ feature_row:
     btn_class: "btn--x-large"
   - image_path: ../images/readability.png
     alt: "A cartoonish computer monitor with text highlighted green, glasses in the upper left hand corner"
-    url: "projects/evaluation/"
+    url: "projects/readability/"
     btn_label: "Readability Assessment"
     btn_class: "btn--x-large"
   - image_path: ../images/rec.png
     alt: "a thumbs up"
-    url: "projects/bias/"
+    url: "projects/recsys/"
     btn_label: "Recommender Systems"
     btn_class: "btn--x-large"
     
