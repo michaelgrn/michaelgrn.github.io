@@ -1,12 +1,12 @@
 ---
-title: Bias in Recommender Systems
+title: Readability Assessment
 layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/bias.jpg
     caption: "Photo by [Nathan Dumlao](https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt:
-    recommender systems, fairness, bias
+    machine learning, readability, multilingual
 ---
 
 
