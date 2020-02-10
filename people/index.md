@@ -41,13 +41,13 @@ automatically takes care of laying out the alternating picture display.
 
 **Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs*
 
-**Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter
+**Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter*
 
-**Nevena Dragovic (M.Sc.)**   *Curating Recommendations to Satisfy Usersâ€™ Needs and Expectations
+**Nevena Dragovic (M.Sc.)**   *Curating Recommendations to Satisfy User's Needs and Expectations*
 
-**Ion Madrazo Azpiazu (M.Sc.)**   *First Steps Towards Multilingual Readability Assessment
+**Ion Madrazo Azpiazu (M.Sc.)**   *First Steps Towards Multilingual Readability Assessment*
 
-**Oghenemaro Anuyah (M.Sc.)**   *Fostering the Retrieval of Suitable Resources in Response to Children Educational Search Tasks
+**Oghenemaro Anuyah (M.Sc.)**   *Fostering the Retrieval of Suitable Resources in Response to Children Educational Search Tasks*
 
 **Jennifer Ekstrand (M.Sc.)**
 
