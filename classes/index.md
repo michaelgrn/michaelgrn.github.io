@@ -14,8 +14,17 @@ header:
 
 <div class="wrapper">
   <div class="box header">Header</div>
-  <div class="box sidebar">Sidebar</div>
-  <div class="box content">Content</div>
+  <div class="box sidebar">Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019
+  </div>
+  <div class="box content">CS 361: Introduction to the Theory of Computation</div>
+  <div class="box sidebar">Fall 2016</div>
+  <div class="box content">CS 537: Introduction to Information Retrieval</div>
+  <div class="box sidebar">Spring 2017, Fall 2018
+  </div>
+  <div class="box content">CS 481: CS Seminar  </div>
+  <div class="box sidebar">Spring 2015, Fall 2017
+  </div>
+  <div class="box content">CS CS 637: Information Retrieval </div>
 </div>
 
   
