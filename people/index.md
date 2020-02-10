@@ -1,28 +1,7 @@
 ---
-title: People
+title: Students
 layout: splash
 ---
-
-# People
-
-<figure class="half text-center">
-  <img src="../images/piret_group_pic.jpg"
-       alt="Group photo of students and faculty."
-       class="align-center">
-  <figcaption>People and Information Research Team</figcaption>
-</figure>
-
-
-## Faculty
-
-<figure class="half text-center">
-  <img src="../images/faculty_pic.jpg" 
-       alt="Photo of Dr. Ekstrand & Dr. Pera"
-       class="align-center">
-  <figcaption>
-  <a href = "https://md.ekstrandom.net/">Michael Ekstrand</a>
-  and <a href ="https://solepera.github.io/">Sole Pera</a></figcaption>
-</figure>
 
 
 ## Current Students
@@ -33,25 +12,13 @@ automatically takes care of laying out the alternating picture display.
 {:/comment}
 
 {: .student-list}
--   **Adam Keener** is a MS student working with Dr. Ekstrand on applying Bayesian
-    analysis to recommender systems. In his spare time, Adam spends time with 
-    his wife and two children, and enjoys reading sci-fi and fantasy novels.
 
 -   ![Ashlee Milton](../images/Ashlee_pic.jpg)
     {: .pic}
 
     **Ashlee Milton** is a senior working on a second bachelor’s degree in computer science and will be continuing at Boise State in the master’s program starting spring 2020. Her first degree is in psychology from the University of Idaho. She works as an undergraduate research assistant for Dr. Pera working on subjects related to information retrieval with underrepresented populations.
 
--   ![Amifa Raj](../images/Amifa_pic.jpg)
-    {: .pic}
 
-    **Amifa Raj** is a second year PhD student in Computer Science at Boise State University, She is working with Dr. Michael Ekstrand on research involved recommender systems. The main focus of her research is on content based recommendation. She is currently working on identifying and understanding biases introduced by the technique that exploit reviews in developing recommender systems. She completed her Bachelor’s in Computer Science and Engineering from the University of Dhaka, Bangladesh. She has been an active member of the People and Information Research Team (PIReT) from Fall 2018.
-
-
--   ![Carlos Segura](../images/Carlos_pic.jpg)
-    {: .pic}
-
-    **Carlos Segura** is a first year Masters candidate in the Computer Science Department at Boise State. He received his Bachelors in Systems Engineering from Universidad Abierta Interamericana, Argentina. He is a Software Developer with more than 10 years of experience. He is currently working with Dr. Michael Ekstrand on Recommender Systems.
 
 -   ![Devan Karsann](../images/Devan_pic.png)
     {: .pic}
@@ -69,25 +36,23 @@ automatically takes care of laying out the alternating picture display.
 
     **Michael Green** is a Second year Masters candidate in the Computer Science Department at Boise State. He received his Bachelors in English with a focus in Literature with a minor in Visual Art from Boise State University in 2008. He currently works as a Research Assistant with Dr. Sole Pera on subjects such as user type identification as well as evaluating Search Engine effectiveness in the classroom environment. He is also working on his 5th semester as a TA and Tutor for the Computer Science Department.
 
--   ![Ngozi Ihemelandu](../images/Ngozi_pic.jpg)
-    {: .pic}
-
-    **Ngozi Ihemelandu** is a second year PhD student in Computing with an emphasis in Data science at Boise State University. She received her Master’s in Software Engineering from Texas State University, San Marcos and she is currently working with Dr. Michael Ekstrand on Recommender Systems.
-
--   ![Sandra Ambriz](../images/Sandra_pic.jpg)
-    {: .pic}
-
-    **Sandra Ambriz** is a senior in the Computer Science program at Boise State. She currently works as an undergraduate research assistant with Dr. Michael Ekstrand. Currently, her research focuses on recommender system stability. In her free time, she enjoys going running, painting, and spending time with her dogs.
-
-### Additional Students
-
-- Jason Hall (MS)
 
 ## Alumni
 
-- Ion Madrazo Azpiazu (M.S. 2016, Ph.D 2019)
-- Mucun Tian (M.S. 2019)
-- Oghenemaro Anuyah (M.S. 2018)
-- Patrick Cullings (B.S. 2018)
-- David McNeill (B.S. 2016)
-- Nevena Dragovic (M.S. 2016)
+**Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs*
+
+**Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter
+
+**Nevena Dragovic (M.Sc.)**   *Curating Recommendations to Satisfy Usersâ€™ Needs and Expectations
+
+**Ion Madrazo Azpiazu (M.Sc.)**   *First Steps Towards Multilingual Readability Assessment
+
+**Oghenemaro Anuyah (M.Sc.)**   *Fostering the Retrieval of Suitable Resources in Response to Children Educational Search Tasks
+
+**Jennifer Ekstrand (M.Sc.)**
+
+**David McNeill (B.Sc.)**
+
+**William Bigirimana (B.Sc.)**
+
+**Daniel Bakyono (B.Sc.)**
