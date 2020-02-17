@@ -1,12 +1,12 @@
 ---
-title: KidRec: Children & recommender systems: Workshop co-located with ACM conference on recommender systems (recsys 2017)
+title: "KidRec: Children & recommender systems: Workshop co-located with ACM Conference on Recommender Systems (RecSys 2017)"
 date: 2017-08-27
 project: tbd
 type: paper
 ---
 
 {: .citation}
-Jerry Alan Fails, Maria Soledad Pera, Franca Garzotto, Mirko Gelsomini. 2017. ["KidRec: Children & recommender systems: Workshop co-located with ACM conference on recommender systems (recsys 2017)"](#). In <cite>of the Eleventh ACM Conference on Recommender Systems</cite>.
+Jerry Alan Fails, Maria Soledad Pera, Franca Garzotto, Mirko Gelsomini. 2017. ["KidRec: Children & recommender systems: Workshop co-located with ACM Conference on Recommender Systems (RecSys 2017)"](#). In <cite>of the Eleventh ACM Conference on Recommender Systems</cite>.
 
 ## Abstract
 
