@@ -17,9 +17,9 @@ header:
     <th>Dates</th>
   </tr>
   <tr>
-    <td>CS 361: Introduction to the Theory of Computation</td>
+      <td><b>CS 361:</b> <br>Introduction to the Theory of Computation</td>
     <td>Regular languages, finite automata, context-free languages, pushdown automata, Turing machines, decidability, introduction to reducibility and computational complexity.</td>
-    <td>Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019</td>
+    <td><i>Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019</i></td>
   </tr>
   <tr>
     <td>CS 537: Introduction to Information Retrieval </td>
