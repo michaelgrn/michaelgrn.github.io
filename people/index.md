@@ -39,6 +39,8 @@ automatically takes care of laying out the alternating picture display.
 
 ## Alumni
 
+**Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective*
+
 **Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs*
 
 **Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter*
