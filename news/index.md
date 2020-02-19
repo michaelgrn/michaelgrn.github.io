@@ -15,7 +15,7 @@ header:
 {% if year != cur %}## {{year}} {% endif %}
 {% assign cur = year %}
 <li>
-    <a href = "{{ pub.picture }}"> <img src="{{ pub.picture }}" alt="Photo of a {{ pub.title | downcase }}" style="float:left;length:160px;"> </a>
+    <a href = "{{ pub.picture }}"> <img src="{{ pub.picture }}" alt="Photo of a {{ pub.title | downcase }}" style="float:left;width:160px;"> </a>
     <a href="{{ pub.link }}">{{ pub.title }}</a>    
 </li>
 {% endfor %}
