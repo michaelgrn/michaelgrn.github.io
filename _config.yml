@@ -9,7 +9,10 @@ collections:
     output: true
     permalink: /pubs/:year/:path
     sort_by:  date
-
+  news:
+    output: true
+    permalink: /news/:year/:path
+    sort_by:  date
 
 defaults:
   - values:
