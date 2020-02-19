@@ -1,5 +1,7 @@
 ---
 title: "Faculty Team Competing to Set National Research Agenda: You Can Help"
+link: "https://www.boisestate.edu/news/2019/06/03/faculty-team-competing-to-set-national-research-agenda-you-can-help/"
+image: ../images/nsf_big_idea.jpg
 date: 2019-09-09
 ---
 
