@@ -28,13 +28,13 @@ header:
     <td><font size="3"><i>Spring 2017, Fall 2018</i></font></td>
   </tr>
   <tr>
-      <td><b>CS 537:</b></br> Introduction to Information Retrieval </td>
+      <td><b>CS 537:</b><br> Introduction to Information Retrieval </td>
     <td>An overview of Information Retrieval (IR): fundamental concepts and terminology related to IR; analyzing design methodologies and issues of IR applications; text processing, search, ranking, indexing, classification/clustering, fundamental IR models (e.g., Boolean, Vector Space, and Probabilistic models), and evaluation strategies</td>
     <td><font size="3"><i>Fall 2016, Fall 2019</i></font></td>
   </tr>
 
    <tr>
-    <td><b>CS 637:</b></br> Information Retrieval </td>
+    <td><b>CS 637:</b><br> Information Retrieval </td>
     <td>An exploration of diverse areas of study related to information retrieval. Topics include query suggestion, question answering, recommendation systems, and (social) web search. Emphasis on exploring state-of-the-art research and future trends via reading assignments and topic presentations.</td>
     <td><font size="3"><i>Spring 2015, Fall 2017</i></font></td>
     </tr>
