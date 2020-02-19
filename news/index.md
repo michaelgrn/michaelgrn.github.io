@@ -12,6 +12,10 @@ header:
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
 {% if year != cur %}## {{year}} {% endif %}
 {% assign cur = year %}
-{{pub.title pub.excerpt | replace: "#", pub.url }}
+<li>
+      <a href="{{ pub.url }}">{{ pub.title }}</a>
+    -   (pub.image)
+    {: .pic}
+</li>
 {% endfor %}
 
