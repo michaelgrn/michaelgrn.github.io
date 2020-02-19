@@ -12,6 +12,7 @@ header:
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
 {% if year != cur %}## {{year}} {% endif %}
 {% assign cur = year %}
+{{pub.title}}
 {{pub.excerpt | replace: "#", pub.url }}
 {% endfor %}
 
