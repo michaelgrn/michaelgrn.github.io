@@ -21,6 +21,10 @@ defaults:
       type: pubs
     values:
       layout: single
+  - scope:
+      type: news
+    values:
+      layout: single
 
 
 ## Theming Configuration
