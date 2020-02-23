@@ -6,7 +6,7 @@ header:
     overlay_image: /images/pages.jpg
     caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
-
+<!--  
 <div class="grid-container">news
 {% assign cur = '2101' %}
 {% for pub in site.news reversed %}
@@ -20,7 +20,7 @@ header:
 {% endfor %}
 
 </div>
-
+ --> 
 
 <div class="posts clearfix">
   {% for post in site.news %}
