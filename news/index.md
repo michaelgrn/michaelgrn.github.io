@@ -11,9 +11,8 @@ header:
 {% assign cur = '2101' %}
 {% for pub in site.news reversed %}
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
-{% if year != cur %}## {{year}} {% endif %}
 {% assign cur = year %}
-     <div class="grid-item">
+    <div class="grid-item">
     <a href = "{{ pub.picture }}"> <img src="{{ pub.picture }}" alt="Photo of a {{ pub.title | downcase }}" style="float:left;width:160px;"> </a>
     <a href="{{ pub.link }}">{{ pub.title }}</a>    
     </div>
