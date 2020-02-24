@@ -1,6 +1,6 @@
 ---
 title: News
-layout: home
+layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/pages.jpg
