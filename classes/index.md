@@ -3,13 +3,14 @@ title: Classes
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/projects.jpg
-    caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
+    overlay_image: /images/classHead.jpg
+    caption: "Photo by [Changbok Ko
+](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/photos/F8t2VGnI47I)"
     excerpt: "Classes I teach"
 
 ---
 
-  
+
  <table style="width:100%">
   <tr>
     <th>Class</th>
@@ -38,6 +39,4 @@ header:
     <td>An exploration of diverse areas of study related to information retrieval. Topics include query suggestion, question answering, recommendation systems, and (social) web search. Emphasis on exploring state-of-the-art research and future trends via reading assignments and topic presentations.</td>
     <td><font size="3"><i>Spring 2015, Fall 2017</i></font></td>
     </tr>
-</table> 
-  
-
+</table>
