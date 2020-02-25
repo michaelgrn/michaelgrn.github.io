@@ -3,7 +3,7 @@ title: Students
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/piret_group_pic.jpg
+    overlay_image: /images/studentsHead.jpg
 ---
 
 
