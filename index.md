@@ -4,8 +4,8 @@ layout: splash
 classes:
 - homepage
 header:
-    overlay_image: /images/header-bg.png
-    
+    overlay_image: /images/header-bg2.png
+
 excerpt:
     Associate Professor
 ---
@@ -25,7 +25,7 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
     <span style="float: right; padding-right: 45px"><i>April 2014</i></span>
    <br>Brigham Young University, Provo, Utah, USA
    <br>Proposed Dissertation Topic: "Using Online Data Sources to Make Recommendations
-   on Reading Materials for K-12 and Advanced Readers" 
+   on Reading Materials for K-12 and Advanced Readers"
    <br>Advisor: Dr. Yiu-Kai Ng
 </p>
 <p style="text-align:left">
@@ -34,7 +34,7 @@ After completing her Ph.D. in Computer Science at Brigham Young University in 20
    &nbsp;
    <br>Brigham Young University, Provo, Utah, USA&nbsp;
    <br>Thesis: "Improving Library&nbsp;Searches Using Word-Correlation Factors
-   and Folksonomies" 
+   and Folksonomies"
     <br>Advisor: Dr. Yiu-Kai Ng
    <br>
 </p>

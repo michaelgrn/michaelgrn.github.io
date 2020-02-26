@@ -20,7 +20,7 @@ header:
   <tr>
       <td><b>CS 361:</b><br>Introduction to the Theory of Computation</td>
     <td>Regular languages, finite automata, context-free languages, pushdown automata, Turing machines, decidability, introduction to reducibility and computational complexity.</td>
-    <td><font size="3"><i>Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019</i></font></td>
+    <td><font size="3"><i>Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019, Spring 2020</i></font></td>
   </tr>
        <tr>
     <td><b>CS 481:</b><br> CS Seminar</td>
@@ -37,6 +37,6 @@ header:
    <tr>
     <td><b>CS 637:</b><br> Information Retrieval </td>
     <td>An exploration of diverse areas of study related to information retrieval. Topics include query suggestion, question answering, recommendation systems, and (social) web search. Emphasis on exploring state-of-the-art research and future trends via reading assignments and topic presentations.</td>
-    <td><font size="3"><i>Spring 2015, Fall 2017</i></font></td>
+    <td><font size="3"><i>Spring 2015, Fall 2017, Spring 202</i></font></td>
     </tr>
 </table>
