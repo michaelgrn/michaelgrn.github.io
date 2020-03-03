@@ -12,10 +12,12 @@ header:
 
 <h2>Conference Organization</h2>
 <ul>
+<ul>
 <li>IDC 2019 - Social activity chair</li>
 <li>ACM RecSys 2019 - Poster and demo chair</li>
 <li>ACM RecSys 2018 - General co-chair</li>
 <li>PWN LSAMP/SHPE Conference: Emerging STEM Leaders-Dream it, Do it, on March 1-3, 2018</li>
+</ul>
 </ul>
 
 <h2>Workshop Organization</h2>
