@@ -22,7 +22,7 @@ header:
 <ul>
 <li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. <\li>
 <li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>
-</ul>
+<\ul>
 <h2>Reviewer</h2>
 <ul>
 <li>Journal of Knowledge and Information</li>
@@ -32,7 +32,7 @@ header:
 <li>ACM Symposium on User Interface Software and Technology</li>
 <li>ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)</li>
 <li>Cogent Engineering<\li>
-<li>Social Necwork Analysis and Mining Journal<\li>
+<li>Social Network Analysis and Mining Journal<\li>
 <li>ACM Transactions on Information Systems (TOIS)</li>
 
 
