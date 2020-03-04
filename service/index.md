@@ -38,7 +38,7 @@ header:
 <li>ACM Transactions on Information Systems (TOIS)</li>
 </ul>
 
-<h2>Program Commitee (Recent)/h2>
+<h2>Program Commitee (Recent)</h2>
 <ul>
     <li>RecSys 2014 / 17; 2019 (senior PC)</li>
     <li>UMAP 2019 (http://www.cyprusconferences.org/umap2019/ ).</li>
