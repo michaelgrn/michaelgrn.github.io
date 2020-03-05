@@ -27,6 +27,9 @@ header:
 </ul>
 <h2>Reviewer</h2>
 <ul>
+<li>Special Interest Group on Information Retrieval</li>
+<li>Conference on User Modeling, Adaptation and Personalization</li>
+<li>ACM Conference on Recommender Systems</li>
 <li>Journal of Knowledge and Information</li>
 <li>IEEE Access Journal</li>
 <li>Hypermedia and Multimedia Journal</li>
