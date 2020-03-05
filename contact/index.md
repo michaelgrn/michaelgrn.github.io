@@ -8,13 +8,13 @@ header:
 ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
 
 ---
-<h2>Email</h2>
+<h3>Email</h3>
 solepera@boisestate.edu
 
 <h3>Address</h3>
-<p>1910 University Dr.
-<p>Boise, ID 83725</br>
-<p>Office: CCP 354
+<p>1910 University Dr. <br>
+Boise, ID 83725 <br>
+Office: CCP 354 <br>
 
 <h3>Phone</h3>
 208-426-2487
