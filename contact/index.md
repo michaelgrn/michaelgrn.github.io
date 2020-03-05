@@ -8,16 +8,16 @@ header:
 ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
 
 ---
-<b><u>Email:</u></b><br><br>
+<b><u>Email:</u></b><br>
 <span style="display:inline-block; text-indent :2em;">solepera@boisestate.edu</span><br>
 
-<b><u>Address:</u></b><br>
+<b><u>Address:</u></b>
 <br>
 <span style="display:inline-block; text-indent :2em;">1910 University Dr.</span> <br>
 <span style="display:inline-block; text-indent :2em;">Boise, ID 83725 </span><br>
 <span style="display:inline-block; text-indent :2em;">Office: CCP 354</span> <br>
 
-<b><u>Phone:</u></b><br><br>
+<b><u>Phone:</u></b><br>
 <span style="display:inline-block; text-indent :2em;">208-426-2487</span>
 
 <b><u>Social Media:</u></b><br>
