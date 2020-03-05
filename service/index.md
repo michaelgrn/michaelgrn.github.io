@@ -25,7 +25,9 @@ header:
 <li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. </li>
 <li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>
 </ul>
+
 <h2>Reviewer</h2>
+<ul>
 <ul>
 <li>Special Interest Group on Information Retrieval</li>
 <li>Conference on User Modeling, Adaptation and Personalization</li>
@@ -39,6 +41,7 @@ header:
 <li>Cogent Engineering</li>
 <li>Social Network Analysis and Mining Journal</li>
 <li>ACM Transactions on Information Systems (TOIS)</li>
+</ul>
 </ul>
 
 <h2>Program Commitee (Recent)</h2>
