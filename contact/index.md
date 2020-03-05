@@ -12,8 +12,8 @@ header:
 solepera@boisestate.edu
 
 <h3>Address</h3>
-1910 University Dr.
-Boise, ID 83725
+1910 University Dr.<br>
+Boise, ID 83725<br>
 Office: CCP 354
 
 <h3>Phone</h3>
