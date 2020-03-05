@@ -9,9 +9,10 @@ header:
 
 ---
 <b>Email</b><br>
-<span style="display:inline-block; width:ONE-TAB-WIDTH;">solepera@boisestate.edu</span><br>
+<span style="display:inline-block; text-indent :5em;">solepera@boisestate.edu</span><br>
 
 <b>Address</b>
+<br>
 1910 University Dr. <br>
 Boise, ID 83725 <br>
 Office: CCP 354 <br>
