@@ -8,10 +8,10 @@ header:
 ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
 
 ---
-<b>Email</b>
-<p>solepera@boisestate.edu</p>
+<b>Email</b><br>
+solepera@boisestate.edu<br>
 
-<h3>Address</h3>
+<b>Address</b>
 <p>1910 University Dr. <br>
 Boise, ID 83725 <br>
 Office: CCP 354 <br>
