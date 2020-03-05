@@ -8,8 +8,8 @@ header:
 ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
 
 ---
-<h3>Email</h3>
-solepera@boisestate.edu
+<b>Email</b>
+<p>solepera@boisestate.edu</p>
 
 <h3>Address</h3>
 <p>1910 University Dr. <br>
