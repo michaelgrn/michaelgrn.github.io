@@ -9,17 +9,17 @@ header:
 
 ---
 <b>Email</b><br>
-<span style="display:inline-block; width:WIDTH;">solepera@boisestate.edu</span><br>
+<span style="display:inline-block; width:ONE-TAB-WIDTH;">solepera@boisestate.edu</span><br>
 
 <b>Address</b>
-<p>1910 University Dr. <br>
+1910 University Dr. <br>
 Boise, ID 83725 <br>
 Office: CCP 354 <br>
 
-<h3>Phone</h3>
+<b>Phone</b>
 208-426-2487
 
-<h3>Social Media</h3>
+<b>Social Media</b>
 <div id="soc">
 <div class="social_media">
 <a href="https://twitter.com/DrCh0le"> <img src="../images/twitter-icon.png" alt="twitter_profile" width="30" height="30"></a>		
