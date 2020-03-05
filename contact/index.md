@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: single
+layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/contactHead.jpg
