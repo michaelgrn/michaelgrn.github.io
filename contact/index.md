@@ -9,7 +9,7 @@ header:
 
 ---
 <b>Email</b><br>
-solepera@boisestate.edu<br>
+<span style="display:inline-block; width:WIDTH;">solepera@boisestate.edu</span><br>
 
 <b>Address</b>
 <p>1910 University Dr. <br>
