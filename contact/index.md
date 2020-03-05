@@ -20,7 +20,7 @@ header:
 <b><u>Phone:</u></b><br>
 <span style="display:inline-block; text-indent :2em;">208-426-2487</span>
 
-<b><u>Social Media:</u></b><br>
+<b><u>Social Media:</u></b>
 
 
 <span style="display:inline-block; text-indent :3em;">
