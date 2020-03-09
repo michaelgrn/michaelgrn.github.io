@@ -7,7 +7,7 @@ type: paper
 
 {: .citation}
  Oghenemaro Anuyah, Ashlee Milton, Michael Green, and Maria Soledad Pera. 2019. ["An empirical analysis of search engines’ response to web search queries associated with the classroom setting"](#). In <cite> Aslib Journal of Information Management(CLEF 2019)</cite>.
-</cite>.
+
 
 ##Abstract
 
