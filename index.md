@@ -4,7 +4,7 @@ layout: splash
 classes:
 - homepage
 header:
-    overlay_image: /images/header-bg2.png
+    image: /images/header-bg2.png
 
 excerpt:
     Associate Professor
