@@ -13,6 +13,7 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li> Diversity Inclusion Chair
 <li>IDC 2019 - Social activity chair</li>
 <li>ACM RecSys 2019 - Poster and demo chair</li>
 <li>ACM RecSys 2018 - General co-chair</li>
@@ -49,9 +50,9 @@ header:
 <h2>Program Commitee (Recent)</h2>
 <ul>
 <ul>
-    <li>ACM SIGIR 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li> 
-    <li>RecSys 2014 / 17; 2019 (senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
-    <li>UMAP 2019 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
-    <li>LA-Web (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> ).</li>
+    <li>ACM conference on Special Interest Group on Information Retrieval 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li> 
+    <li>ACM Conference on Recommender Systems 2014 / 17; 2019 (senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
+    <li> ACM International Conference on User Modeling, Adaptation, and Personalization 2019 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
+    <li>Latin American Web Congress (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> ).</li>
 </ul>
 </ul>
