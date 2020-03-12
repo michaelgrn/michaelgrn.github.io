@@ -9,7 +9,7 @@ header:
 
 <div>
 {% assign cur = '2101' %}
-{% for pub in site.news limit:12 %}
+{% for pub in site.news reversed limit:15 %}
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
 {% assign cur = year %}
     <div class="grid-item">
