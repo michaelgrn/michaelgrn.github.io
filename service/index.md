@@ -23,15 +23,15 @@ header:
 <h2>Workshop Organization</h2>
 <ul>
 <ul>
-<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>
-<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. </li>
+<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>   
+<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/2019/).</li>
+<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. (https://kidrec.github.io/2018/) </li>
 </ul>
 </ul>
 
 <h2>Reviewer</h2>
 <ul>
 <ul>
-<li>Special Interest Group on Information Retrieval</li>
 <li>Conference on User Modeling, Adaptation and Personalization</li>
 <li>ACM Conference on Recommender Systems</li>
 <li>Journal of Knowledge and Information</li>
@@ -49,8 +49,8 @@ header:
 <h2>Program Commitee (Recent)</h2>
 <ul>
 <ul>
-    <li>ACM SIGIR 2020 (senior PC)</li> 
-    <li>RecSys 2014 / 17; 2019 (senior PC)</li>
+    <li>ACM SIGIR 2020 (senior PC ) (https://sigir.org/sigir2020/)</li> 
+    <li>RecSys 2014 / 17; 2019 (senior PC) (https://recsys.acm.org/recsys19/)</li>
     <li>UMAP 2019 (http://www.cyprusconferences.org/umap2019/ ).</li>
     <li>LA-Web (http://laweb2019.icomp.ufam.edu.br/ ).</li>
 </ul>
