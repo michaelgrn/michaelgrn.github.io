@@ -23,8 +23,8 @@ header:
 <h2>Workshop Organization</h2>
 <ul>
 <ul>
-<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. </li>
 <li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>
+<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. </li>
 </ul>
 </ul>
 
@@ -49,6 +49,7 @@ header:
 <h2>Program Commitee (Recent)</h2>
 <ul>
 <ul>
+    <li>ACM SIGIR 2020 (senior PC)</li> 
     <li>RecSys 2014 / 17; 2019 (senior PC)</li>
     <li>UMAP 2019 (http://www.cyprusconferences.org/umap2019/ ).</li>
     <li>LA-Web (http://laweb2019.icomp.ufam.edu.br/ ).</li>
