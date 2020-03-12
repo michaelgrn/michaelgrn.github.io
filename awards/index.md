@@ -1,6 +1,6 @@
 ---
 title: Awards
-layout: splash
+layout: single
 header:
     overlay_filter: "0.5"
     overlay_image: /images/awardsHead.jpg
