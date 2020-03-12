@@ -10,28 +10,30 @@ header:
 ---
 
 # Awards
-</br>
+<br>
+<br>
 NSF 2026 Big Idea Machine: Equity and Beneficence in Sociotech System
 
  <hr>
- </br>
+<br>
 Boise State Graduate College: Excellence in Mentoring Award
 <hr>
-</br>
+<br>
 Boise State University Awards: Faculty Coach for a Game Honoree (November 24, 2018: BSU vs. University of Utah [BSU won])
 <hr>
 </br>
 Boise State University Campus Awards: Nominated for the Advisor of the Year 2018 Award
 <hr>
-</br>
+<br>
 Golden Apple Award: Awarded the 2017 Golden Apple Award for the Graduate College at Boise State University
 
 # Grants
+<br>
 
 <h2>Child Adaptive Search Tool (CAST)</h2>
 <p>
 <b>Abstract</b>: The aim of the project is to empower emergent searchers -- initially children ages 6-11 -- by researching, designing, and developing search tools that improve their information literacy and searching capabilities through modeling and adapting to their abilities as they search. Current search engines, even ones specifically designed for children, offer weak support for children's search needs due to their developing skills related to spelling, language use (including synonyms), understanding categories, refining queries, and evaluating relevance and quality of results. This makes it hard for children to create effective queries, use the results suggested by the search engine, and understand the relationship between the queries and the results returned. Bringing together expertise in human-computer interaction, information retrieval, natural language processing, and education, the project team will both (a) further scientific understanding of children's search abilities, and (b) design tools to support it through the iterative development of CAST (Child Adaptive Search Tool), designed for children aged 6-11. CAST will be designed to model and respond to users' literacy and maturity levels as well as search intent missing from their formal queries. For example, when a child submits the query "Tiger", CAST will tend to prioritize tiger habitat or Winnie the Pooh's friend Tigger, which likely correlate better to a child's search intent than information on Tiger Woods. To reach this goal, the team will collaborate with children and teachers throughout the course of the project, working with partners in several local schools to increase the impact of the application itself and to improve the dissemination of the results. The results on supporting search in the special population of children in this research also have the potential to inform similar problems and methods aimed at other populations who might have systematic differences in their search ability, from older adults to second language speakers.
-</br>
+</p>
 <b>More information</b>: CAST: Child Adaptive Search Tool
 
 LITERATE: Locating Informational Texts for Engaging Readers and Teaching equitably
