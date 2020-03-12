@@ -23,9 +23,9 @@ header:
 <h2>Workshop Organization</h2>
 <ul>
 <ul>
-<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>   
-<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/2019/).</li>
-<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. (https://kidrec.github.io/2018/) </li>
+<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. ( https://kidrec.github.io/ ).</li>   
+<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. ( https://kidrec.github.io/2019/ ).</li>
+<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. ( https://kidrec.github.io/2018/ ) </li>
 </ul>
 </ul>
 
