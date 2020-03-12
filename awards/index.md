@@ -41,14 +41,16 @@ Golden Apple Award: Awarded the 2017 Golden Apple Award for the Graduate College
 
 <hr>
 
-LITERATE: Locating Informational Texts for Engaging Readers and Teaching equitably
+<h2>LITERATE: Locating Informational Texts for Engaging Readers and Teaching equitably</h2>
 
-Project Outline: The goal of this project is to prototype LITERATE (Locating Informational Texts for Engaging Readers and Teaching Equitably), a web based application to help teachers locate news articles to use in upper elementary.
+<p><b>Project Outline:</b> The goal of this project is to prototype LITERATE (Locating Informational Texts for Engaging Readers and Teaching Equitably), a web based application to help teachers locate news articles to use in upper elementary.
+</p>
 
-Related Outcomes:
+<p><b>Related Outcomes:<b></p>
 
-Literate Demo
+<p><i>Literate Demo</i></p>
 
+<hr>
 IR for Children: Enhanced Search Environment for Children ( CRII: III: Children and Information Retrieval Tasks: Search Intent, Query Suggestions, and Adequate Online Resources )
 
 Abstract: Children are introduced to the Web at increasingly young ages. While early exposure can help them build foundational skills vital in a knowledge-rich society, search tools were not designed with children in mind nor do retrieved results explicitly target children. Most engines do not support children's inquiry approaches (or do not support them well) and typically do not return content suitable to children's interests or reading levels. This need is important to address given that early experiences can affect attitudes in using the Web, skill development in making adequate use of resources for personal and educational interests, and the ability to leverage information and use it to make contributions into adulthood. The PI and her team will design and develop software modules as search engine add-ons to meet the needs of children searching the Web. The modules, which will upgrade current computation infrastructure, will be domain-independent, tailored to children, and usable on Google, to locate child-friendly educational- and leisure-related information. Research outputs will facilitate children's engagement with technology by improving their interactions on the Web. Partnerships with Idaho K-9 classrooms will allow the research team to gather feedback from children and teachers and verify the usefulness of the proposed modules in their intended, formal setting.
