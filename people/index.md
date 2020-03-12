@@ -40,10 +40,10 @@ automatically takes care of laying out the alternating picture display.
 
     **Michael Green** is a Second year Masters candidate in the Computer Science Department at Boise State. He received his Bachelors in English with a focus in Literature with a minor in Visual Art from Boise State University in 2008. He currently works as a Research Assistant with Dr. Sole Pera on subjects such as user type identification as well as evaluating Search Engine effectiveness in the classroom environment. He is also working on his 5th semester as a TA and Tutor for the Computer Science Department.
 
--   ![Garret Allen](../images/GarrettA_pic.jpg)
-        {: .pic}
+-   ![Garret Allen](../images/GarrettA_pic.png)
+    {: .pic}
 
-        **Garrett Allen** is a senior undergraduate working on his Computer Science degree, which will be completed in the Spring of 2020. He works as an undergraduate research assistant with Dr. Pera and the CAST team to create an adaptive search tool for children. Beginning in the summer of 2020, he will begin working towards his Master's in the Computer Science Department at Boise State and continue his work with the CAST team.
+    **Garrett Allen** is a senior undergraduate working on his Computer Science degree, which will be completed in the Spring of 2020. He works as an undergraduate research assistant with Dr. Pera and the CAST team to create an adaptive search tool for children. Beginning in the summer of 2020, he will begin working towards his Master's in the Computer Science Department at Boise State and continue his work with the CAST team.
 
 
 
