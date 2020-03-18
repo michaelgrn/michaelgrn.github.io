@@ -1,5 +1,5 @@
 ---
-title: News
+title: Archived News
 layout: splash
 header:
     overlay_filter: "0.2"
@@ -20,5 +20,3 @@ header:
 {% endfor %}
 
 </div>
-
-<a href="../archive">link</a>
