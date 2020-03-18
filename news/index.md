@@ -21,4 +21,4 @@ header:
 
 </div>
 
-<a href ="../archive">link</a>
+<a href ="../archive">Archived News</a>
