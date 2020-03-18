@@ -10,7 +10,7 @@ header:
 <div>
 {% assign cur = '2101' %}
 {% assign sorted = (site.news | sort: 'date') | reverse %}
-{% for pub in sorted limit:12 %}
+{% for pub in sorted %}
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
 {% assign cur = year %}
     <div class="grid-item">
@@ -20,5 +20,3 @@ header:
 {% endfor %}
 
 </div>
-
-<a href ="indexLim.md">link</a>
