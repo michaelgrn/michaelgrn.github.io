@@ -21,4 +21,4 @@ header:
 
 </div>
 
-<a href ="../archive" style="font-size:300%; float:right">Archived News</a>
+<a href ="../archive" style="font-size:200%; float:right">Archived News</a>
